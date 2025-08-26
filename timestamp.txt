@@ -1,0 +1,1127 @@
+[VAD] 1970-01-01 01:50:06.972 duration 0.113 get_speech_segments: 01:50:00.000 109440 samples, find segs:[[{'start': 0.6, 'end': 6.8}]].
+[VAD] 1970-01-01 01:50:07.115 duration 0.149 get_speech_segments: 01:50:00.600 102080 samples, find segs:[[{'start': 0.0, 'end': 6.38}]].
+[VAD] 1970-01-01 01:50:07.238 duration 0.101 get_speech_segments: 01:50:00.600 104320 samples, find segs:[[{'start': 0.0, 'end': 6.5}]].
+[VAD] 1970-01-01 01:50:07.363 duration 0.102 get_speech_segments: 01:50:00.600 106240 samples, find segs:[[{'start': 0.0, 'end': 6.6}]].
+[VAD] 1970-01-01 01:50:07.481 duration 0.096 get_speech_segments: 01:50:00.600 108320 samples, find segs:[[{'start': 0.0, 'end': 6.77}]].
+[VAD] 1970-01-01 01:50:07.612 duration 0.109 get_speech_segments: 01:50:00.600 110240 samples, find segs:[[{'start': 0.0, 'end': 6.89}]].
+[VAD] 1970-01-01 01:50:07.744 duration 0.109 get_speech_segments: 01:50:00.600 112320 samples, find segs:[[{'start': 0.0, 'end': 7.0}]].
+[VAD] 1970-01-01 01:50:07.887 duration 0.122 get_speech_segments: 01:50:00.600 114400 samples, find segs:[[{'start': 0.0, 'end': 7.15}]].
+[VAD] 1970-01-01 01:50:08.017 duration 0.107 get_speech_segments: 01:50:00.600 116800 samples, find segs:[[{'start': 0.0, 'end': 7.3}]].
+[VAD] 1970-01-01 01:50:08.149 duration 0.109 get_speech_segments: 01:50:00.600 118720 samples, find segs:[[{'start': 0.0, 'end': 7.4}]].
+[VAD] 1970-01-01 01:50:08.294 duration 0.122 get_speech_segments: 01:50:00.600 120800 samples, find segs:[[{'start': 0.0, 'end': 7.5}]].
+[VAD] 1970-01-01 01:50:08.438 duration 0.120 get_speech_segments: 01:50:00.600 123200 samples, find segs:[[{'start': 0.0, 'end': 7.7}]].
+[VAD] 1970-01-01 01:50:08.576 duration 0.115 get_speech_segments: 01:50:00.600 125440 samples, find segs:[[{'start': 0.0, 'end': 7.8}]].
+[VAD] 1970-01-01 01:50:08.726 duration 0.128 get_speech_segments: 01:50:00.600 127680 samples, find segs:[[{'start': 0.0, 'end': 7.98}]].
+[VAD] 1970-01-01 01:50:08.890 duration 0.135 get_speech_segments: 01:50:00.600 130080 samples, find segs:[[{'start': 0.0, 'end': 8.1}]].
+[VAD] 1970-01-01 01:50:09.030 duration 0.116 get_speech_segments: 01:50:00.600 132800 samples, find segs:[[{'start': 0.0, 'end': 8.3}]].
+[VAD] 1970-01-01 01:50:09.191 duration 0.136 get_speech_segments: 01:50:00.600 135040 samples, find segs:[[{'start': 0.0, 'end': 7.9}]].
+[VAD] 1970-01-01 01:50:09.346 get_speech_segments: 01:50:00.600 same segment as previous detection.
+[VAD] 1970-01-01 01:50:09.517 get_speech_segments: 01:50:00.600 same segment as previous detection.
+[VAD] 1970-01-01 01:50:09.682 get_speech_segments: 01:50:00.600 same segment as previous detection.
+[VAD] 1970-01-01 01:50:09.840 get_speech_segments: 01:50:00.600 same segment as previous detection.
+[VAD] 1970-01-01 01:50:09.992 get_speech_segments: 01:50:00.600 same segment as previous detection.
+[VAD] 1970-01-01 01:50:10.418 get_speech_segments: 01:50:00.600 same segment as previous detection.
+[VAD] 1970-01-01 01:50:10.632 get_speech_segments: 01:50:00.600 same segment as previous detection.
+[VAD] 1970-01-01 01:50:10.816 get_speech_segments: 01:50:00.600 same segment as previous detection.
+[VAD] 1970-01-01 01:50:11.015 duration 0.170 get_speech_segments: 01:50:00.600 163520 samples, find segs:[[{'start': 0.0, 'end': 7.9}, {'start': 9.8, 'end': 10.2}]].
+[VAD] 1970-01-01 01:50:11.043 duration 0.013 get_speech_segments: 01:50:10.400 9920 samples, find segs:[[{'start': 0.0, 'end': 0.6}]].
+[VAD] 1970-01-01 01:50:11.073 duration 0.014 get_speech_segments: 01:50:10.400 10400 samples, find segs:[[{'start': 0.0, 'end': 0.65}]].
+[VAD] 1970-01-01 01:50:11.102 duration 0.013 get_speech_segments: 01:50:10.400 10880 samples, find segs:[[{'start': 0.0, 'end': 0.68}]].
+[VAD] 1970-01-01 01:50:11.140 duration 0.021 get_speech_segments: 01:50:10.400 11360 samples, find segs:[[{'start': 0.0, 'end': 0.7}]].
+[VAD] 1970-01-01 01:50:11.176 duration 0.019 get_speech_segments: 01:50:10.400 12000 samples, find segs:[[{'start': 0.0, 'end': 0.75}]].
+[VAD] 1970-01-01 01:50:11.213 duration 0.020 get_speech_segments: 01:50:10.400 12480 samples, find segs:[[{'start': 0.0, 'end': 0.78}]].
+[VAD] 1970-01-01 01:50:11.251 duration 0.021 get_speech_segments: 01:50:10.400 13120 samples, find segs:[[{'start': 0.0, 'end': 0.8}]].
+[VAD] 1970-01-01 01:50:11.287 duration 0.020 get_speech_segments: 01:50:10.400 13760 samples, find segs:[[{'start': 0.0, 'end': 0.86}]].
+[VAD] 1970-01-01 01:50:11.322 duration 0.018 get_speech_segments: 01:50:10.400 14400 samples, find segs:[[{'start': 0.0, 'end': 0.9}]].
+[VAD] 1970-01-01 01:50:11.351 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:11.388 duration 0.023 get_speech_segments: 01:50:10.400 15360 samples, find segs:[[{'start': 0.0, 'end': 0.96}]].
+[VAD] 1970-01-01 01:50:11.428 duration 0.019 get_speech_segments: 01:50:10.400 16000 samples, find segs:[[{'start': 0.0, 'end': 1.0}]].
+[VAD] 1970-01-01 01:50:11.468 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:11.504 duration 0.019 get_speech_segments: 01:50:10.400 17280 samples, find segs:[[{'start': 0.0, 'end': 1.08}]].
+[VAD] 1970-01-01 01:50:11.541 duration 0.021 get_speech_segments: 01:50:10.400 17760 samples, find segs:[[{'start': 0.0, 'end': 1.1}]].
+[VAD] 1970-01-01 01:50:11.578 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:11.613 duration 0.019 get_speech_segments: 01:50:10.400 18880 samples, find segs:[[{'start': 0.0, 'end': 1.18}]].
+[VAD] 1970-01-01 01:50:11.645 duration 0.017 get_speech_segments: 01:50:10.400 19520 samples, find segs:[[{'start': 0.0, 'end': 1.2}]].
+[VAD] 1970-01-01 01:50:11.677 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:11.713 duration 0.020 get_speech_segments: 01:50:10.400 20480 samples, find segs:[[{'start': 0.0, 'end': 1.28}]].
+[VAD] 1970-01-01 01:50:11.756 duration 0.026 get_speech_segments: 01:50:10.400 21120 samples, find segs:[[{'start': 0.0, 'end': 1.3}]].
+[VAD] 1970-01-01 01:50:11.798 duration 0.024 get_speech_segments: 01:50:10.400 21760 samples, find segs:[[{'start': 0.0, 'end': 1.36}]].
+[VAD] 1970-01-01 01:50:11.840 duration 0.025 get_speech_segments: 01:50:10.400 22400 samples, find segs:[[{'start': 0.0, 'end': 1.4}]].
+[VAD] 1970-01-01 01:50:11.880 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:11.922 duration 0.025 get_speech_segments: 01:50:10.400 23680 samples, find segs:[[{'start': 0.0, 'end': 1.48}]].
+[VAD] 1970-01-01 01:50:11.994 duration 0.054 get_speech_segments: 01:50:10.400 24480 samples, find segs:[[{'start': 0.0, 'end': 1.5}]].
+[VAD] 1970-01-01 01:50:12.041 duration 0.029 get_speech_segments: 01:50:10.400 25600 samples, find segs:[[{'start': 0.0, 'end': 1.6}]].
+[VAD] 1970-01-01 01:50:12.085 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:12.131 duration 0.029 get_speech_segments: 01:50:10.400 27040 samples, find segs:[[{'start': 0.0, 'end': 1.69}]].
+[VAD] 1970-01-01 01:50:12.176 duration 0.028 get_speech_segments: 01:50:10.400 27840 samples, find segs:[[{'start': 0.0, 'end': 1.7}]].
+[VAD] 1970-01-01 01:50:12.226 duration 0.033 get_speech_segments: 01:50:10.400 28480 samples, find segs:[[{'start': 0.0, 'end': 1.78}]].
+[VAD] 1970-01-01 01:50:12.275 duration 0.030 get_speech_segments: 01:50:10.400 29280 samples, find segs:[[{'start': 0.0, 'end': 1.8}]].
+[VAD] 1970-01-01 01:50:12.323 duration 0.031 get_speech_segments: 01:50:10.400 30080 samples, find segs:[[{'start': 0.0, 'end': 1.88}]].
+[VAD] 1970-01-01 01:50:12.420 duration 0.076 get_speech_segments: 01:50:10.400 30880 samples, find segs:[[{'start': 0.0, 'end': 1.9}]].
+[VAD] 1970-01-01 01:50:12.495 duration 0.052 get_speech_segments: 01:50:10.400 32480 samples, find segs:[[{'start': 0.0, 'end': 2.0}]].
+[VAD] 1970-01-01 01:50:12.574 duration 0.061 get_speech_segments: 01:50:10.400 33600 samples, find segs:[[{'start': 0.0, 'end': 2.1}]].
+[VAD] 1970-01-01 01:50:12.625 duration 0.033 get_speech_segments: 01:50:10.400 34880 samples, find segs:[[{'start': 0.0, 'end': 2.18}]].
+[VAD] 1970-01-01 01:50:12.675 duration 0.034 get_speech_segments: 01:50:10.400 35680 samples, find segs:[[{'start': 0.0, 'end': 2.2}]].
+[VAD] 1970-01-01 01:50:12.725 duration 0.033 get_speech_segments: 01:50:10.400 36480 samples, find segs:[[{'start': 0.0, 'end': 2.28}]].
+[VAD] 1970-01-01 01:50:12.776 duration 0.035 get_speech_segments: 01:50:10.400 37280 samples, find segs:[[{'start': 0.0, 'end': 2.3}]].
+[VAD] 1970-01-01 01:50:12.833 duration 0.039 get_speech_segments: 01:50:10.400 38080 samples, find segs:[[{'start': 0.0, 'end': 2.38}]].
+[VAD] 1970-01-01 01:50:12.886 duration 0.035 get_speech_segments: 01:50:10.400 39040 samples, find segs:[[{'start': 0.0, 'end': 2.4}]].
+[VAD] 1970-01-01 01:50:12.942 duration 0.038 get_speech_segments: 01:50:10.400 39840 samples, find segs:[[{'start': 0.0, 'end': 2.49}]].
+[VAD] 1970-01-01 01:50:13.001 duration 0.041 get_speech_segments: 01:50:10.400 40800 samples, find segs:[[{'start': 0.0, 'end': 2.5}]].
+[VAD] 1970-01-01 01:50:13.075 duration 0.055 get_speech_segments: 01:50:10.400 41600 samples, find segs:[[{'start': 0.0, 'end': 2.6}]].
+[VAD] 1970-01-01 01:50:13.134 duration 0.041 get_speech_segments: 01:50:10.400 42880 samples, find segs:[[{'start': 0.0, 'end': 2.68}]].
+[VAD] 1970-01-01 01:50:13.188 duration 0.039 get_speech_segments: 01:50:10.400 43840 samples, find segs:[[{'start': 0.0, 'end': 2.7}]].
+[VAD] 1970-01-01 01:50:13.258 duration 0.052 get_speech_segments: 01:50:10.400 44640 samples, find segs:[[{'start': 0.0, 'end': 2.79}]].
+[VAD] 1970-01-01 01:50:13.330 duration 0.050 get_speech_segments: 01:50:10.400 45920 samples, find segs:[[{'start': 0.0, 'end': 2.87}]].
+[VAD] 1970-01-01 01:50:13.394 duration 0.045 get_speech_segments: 01:50:10.400 47040 samples, find segs:[[{'start': 0.0, 'end': 2.9}]].
+[VAD] 1970-01-01 01:50:13.458 duration 0.047 get_speech_segments: 01:50:10.400 48000 samples, find segs:[[{'start': 0.0, 'end': 3.0}]].
+[VAD] 1970-01-01 01:50:13.535 duration 0.056 get_speech_segments: 01:50:10.400 49120 samples, find segs:[[{'start': 0.0, 'end': 3.07}]].
+[VAD] 1970-01-01 01:50:13.608 duration 0.055 get_speech_segments: 01:50:10.400 50240 samples, find segs:[[{'start': 0.0, 'end': 3.1}]].
+[VAD] 1970-01-01 01:50:13.678 duration 0.052 get_speech_segments: 01:50:10.400 51360 samples, find segs:[[{'start': 0.0, 'end': 3.2}]].
+[VAD] 1970-01-01 01:50:13.759 duration 0.061 get_speech_segments: 01:50:10.400 52480 samples, find segs:[[{'start': 0.0, 'end': 3.28}]].
+[VAD] 1970-01-01 01:50:13.851 duration 0.069 get_speech_segments: 01:50:10.400 53920 samples, find segs:[[{'start': 0.0, 'end': 3.37}]].
+[VAD] 1970-01-01 01:50:13.923 duration 0.054 get_speech_segments: 01:50:10.400 55360 samples, find segs:[[{'start': 0.0, 'end': 3.46}]].
+[VAD] 1970-01-01 01:50:14.017 duration 0.073 get_speech_segments: 01:50:10.400 56480 samples, find segs:[[{'start': 0.0, 'end': 3.5}]].
+[VAD] 1970-01-01 01:50:14.106 duration 0.068 get_speech_segments: 01:50:10.400 57920 samples, find segs:[[{'start': 0.0, 'end': 3.6}]].
+[VAD] 1970-01-01 01:50:14.190 duration 0.063 get_speech_segments: 01:50:10.400 59360 samples, find segs:[[{'start': 0.0, 'end': 3.7}]].
+[VAD] 1970-01-01 01:50:14.270 duration 0.059 get_speech_segments: 01:50:10.400 60800 samples, find segs:[[{'start': 0.0, 'end': 3.8}]].
+[VAD] 1970-01-01 01:50:14.350 duration 0.060 get_speech_segments: 01:50:10.400 61920 samples, find segs:[[{'start': 0.0, 'end': 3.87}]].
+[VAD] 1970-01-01 01:50:14.434 duration 0.065 get_speech_segments: 01:50:10.400 63360 samples, find segs:[[{'start': 0.0, 'end': 3.96}]].
+[VAD] 1970-01-01 01:50:14.512 duration 0.059 get_speech_segments: 01:50:10.400 64640 samples, find segs:[[{'start': 0.0, 'end': 4.0}]].
+[VAD] 1970-01-01 01:50:14.627 duration 0.069 get_speech_segments: 01:50:10.400 66240 samples, find segs:[[{'start': 0.0, 'end': 4.1}]].
+[VAD] 1970-01-01 01:50:14.708 duration 0.066 get_speech_segments: 01:50:10.400 67680 samples, find segs:[[{'start': 0.0, 'end': 4.2}]].
+[VAD] 1970-01-01 01:50:14.808 duration 0.081 get_speech_segments: 01:50:10.400 69120 samples, find segs:[[{'start': 0.0, 'end': 4.3}]].
+[VAD] 1970-01-01 01:50:14.922 duration 0.091 get_speech_segments: 01:50:10.400 70720 samples, find segs:[[{'start': 0.0, 'end': 4.4}]].
+[VAD] 1970-01-01 01:50:15.036 duration 0.091 get_speech_segments: 01:50:10.400 72480 samples, find segs:[[{'start': 0.0, 'end': 4.5}]].
+[VAD] 1970-01-01 01:50:15.155 duration 0.095 get_speech_segments: 01:50:10.400 74240 samples, find segs:[[{'start': 0.0, 'end': 4.6}]].
+[VAD] 1970-01-01 01:50:15.367 duration 0.180 get_speech_segments: 01:50:10.400 76160 samples, find segs:[[{'start': 0.0, 'end': 4.76}]].
+[VAD] 1970-01-01 01:50:15.478 duration 0.088 get_speech_segments: 01:50:10.400 79520 samples, find segs:[[{'start': 0.0, 'end': 4.97}]].
+[VAD] 1970-01-01 01:50:15.593 duration 0.093 get_speech_segments: 01:50:10.400 81440 samples, find segs:[[{'start': 0.0, 'end': 5.09}]].
+[VAD] 1970-01-01 01:50:15.693 duration 0.077 get_speech_segments: 01:50:10.400 83200 samples, find segs:[[{'start': 0.0, 'end': 5.2}]].
+[VAD] 1970-01-01 01:50:15.823 duration 0.105 get_speech_segments: 01:50:10.400 84800 samples, find segs:[[{'start': 0.0, 'end': 5.3}]].
+[VAD] 1970-01-01 01:50:15.921 duration 0.077 get_speech_segments: 01:50:10.400 86880 samples, find segs:[[{'start': 0.0, 'end': 5.4}]].
+[VAD] 1970-01-01 01:50:16.024 duration 0.083 get_speech_segments: 01:50:10.400 88480 samples, find segs:[[{'start': 0.0, 'end': 5.5}]].
+[VAD] 1970-01-01 01:50:16.122 duration 0.078 get_speech_segments: 01:50:10.400 90080 samples, find segs:[[{'start': 0.0, 'end': 5.1}]].
+[VAD] 1970-01-01 01:50:16.220 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:16.334 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:16.433 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:16.538 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:16.645 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:16.765 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:17.008 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:17.148 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:17.796 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:17.944 get_speech_segments: 01:50:10.400 same segment as previous detection.
+[VAD] 1970-01-01 01:50:18.084 duration 0.116 get_speech_segments: 01:50:10.400 120800 samples, find segs:[[{'start': 0.0, 'end': 5.1}, {'start': 7.1, 'end': 7.5}]].
+[VAD] 1970-01-01 01:50:18.108 duration 0.010 get_speech_segments: 01:50:17.500 9440 samples, find segs:[[{'start': 0.0, 'end': 0.59}]].
+[VAD] 1970-01-01 01:50:18.134 duration 0.010 get_speech_segments: 01:50:17.500 9760 samples, find segs:[[{'start': 0.0, 'end': 0.6}]].
+[VAD] 1970-01-01 01:50:18.158 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:18.187 duration 0.012 get_speech_segments: 01:50:17.500 10560 samples, find segs:[[{'start': 0.0, 'end': 0.66}]].
+[VAD] 1970-01-01 01:50:18.224 duration 0.020 get_speech_segments: 01:50:17.500 11040 samples, find segs:[[{'start': 0.0, 'end': 0.69}]].
+[VAD] 1970-01-01 01:50:18.284 duration 0.028 get_speech_segments: 01:50:17.500 11840 samples, find segs:[[{'start': 0.0, 'end': 0.7}]].
+[VAD] 1970-01-01 01:50:18.350 duration 0.030 get_speech_segments: 01:50:17.500 12960 samples, find segs:[[{'start': 0.0, 'end': 0.8}]].
+[VAD] 1970-01-01 01:50:18.403 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:18.455 duration 0.033 get_speech_segments: 01:50:17.500 14560 samples, find segs:[[{'start': 0.0, 'end': 0.9}]].
+[VAD] 1970-01-01 01:50:18.485 duration 0.015 get_speech_segments: 01:50:17.500 15360 samples, find segs:[[{'start': 0.0, 'end': 0.96}]].
+[VAD] 1970-01-01 01:50:18.515 duration 0.015 get_speech_segments: 01:50:17.500 15840 samples, find segs:[[{'start': 0.0, 'end': 0.99}]].
+[VAD] 1970-01-01 01:50:18.548 duration 0.024 get_speech_segments: 01:50:17.500 16320 samples, find segs:[[{'start': 0.0, 'end': 1.0}]].
+[VAD] 1970-01-01 01:50:18.602 duration 0.033 get_speech_segments: 01:50:17.500 16800 samples, find segs:[[{'start': 0.0, 'end': 1.05}]].
+[VAD] 1970-01-01 01:50:18.636 duration 0.019 get_speech_segments: 01:50:17.500 17760 samples, find segs:[[{'start': 0.0, 'end': 1.1}]].
+[VAD] 1970-01-01 01:50:18.672 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:18.716 duration 0.026 get_speech_segments: 01:50:17.500 18880 samples, find segs:[[{'start': 0.0, 'end': 1.18}]].
+[VAD] 1970-01-01 01:50:18.752 duration 0.020 get_speech_segments: 01:50:17.500 19520 samples, find segs:[[{'start': 0.0, 'end': 1.2}]].
+[VAD] 1970-01-01 01:50:18.790 duration 0.021 get_speech_segments: 01:50:17.500 20160 samples, find segs:[[{'start': 0.0, 'end': 1.26}]].
+[VAD] 1970-01-01 01:50:18.825 duration 0.020 get_speech_segments: 01:50:17.500 20800 samples, find segs:[[{'start': 0.0, 'end': 1.3}]].
+[VAD] 1970-01-01 01:50:18.860 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:18.895 duration 0.021 get_speech_segments: 01:50:17.500 21920 samples, find segs:[[{'start': 0.0, 'end': 1.37}]].
+[VAD] 1970-01-01 01:50:18.933 duration 0.022 get_speech_segments: 01:50:17.500 22400 samples, find segs:[[{'start': 0.0, 'end': 1.4}]].
+[VAD] 1970-01-01 01:50:18.975 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:19.017 duration 0.027 get_speech_segments: 01:50:17.500 23680 samples, find segs:[[{'start': 0.0, 'end': 1.48}]].
+[VAD] 1970-01-01 01:50:19.060 duration 0.024 get_speech_segments: 01:50:17.500 24480 samples, find segs:[[{'start': 0.0, 'end': 1.5}]].
+[VAD] 1970-01-01 01:50:19.106 duration 0.035 get_speech_segments: 01:50:17.500 25120 samples, find segs:[[{'start': 0.0, 'end': 1.57}]].
+[VAD] 1970-01-01 01:50:19.262 duration 0.055 get_speech_segments: 01:50:17.500 27040 samples, find segs:[[{'start': 0.0, 'end': 1.69}]].
+[VAD] 1970-01-01 01:50:19.331 duration 0.051 get_speech_segments: 01:50:17.500 28320 samples, find segs:[[{'start': 0.0, 'end': 1.77}]].
+[VAD] 1970-01-01 01:50:19.418 duration 0.064 get_speech_segments: 01:50:17.500 29440 samples, find segs:[[{'start': 0.0, 'end': 1.8}]].
+[VAD] 1970-01-01 01:50:19.501 duration 0.070 get_speech_segments: 01:50:17.500 30880 samples, find segs:[[{'start': 0.0, 'end': 1.9}]].
+[VAD] 1970-01-01 01:50:19.580 duration 0.057 get_speech_segments: 01:50:17.500 32160 samples, find segs:[[{'start': 0.0, 'end': 2.0}]].
+[VAD] 1970-01-01 01:50:19.661 duration 0.060 get_speech_segments: 01:50:17.500 33440 samples, find segs:[[{'start': 0.0, 'end': 2.09}]].
+[VAD] 1970-01-01 01:50:19.753 duration 0.068 get_speech_segments: 01:50:17.500 34720 samples, find segs:[[{'start': 0.0, 'end': 2.17}]].
+[VAD] 1970-01-01 01:50:19.854 duration 0.075 get_speech_segments: 01:50:17.500 36320 samples, find segs:[[{'start': 0.0, 'end': 2.27}]].
+[VAD] 1970-01-01 01:50:19.947 duration 0.075 get_speech_segments: 01:50:17.500 37760 samples, find segs:[[{'start': 0.0, 'end': 2.36}]].
+[VAD] 1970-01-01 01:50:20.034 duration 0.073 get_speech_segments: 01:50:17.500 39200 samples, find segs:[[{'start': 0.0, 'end': 2.45}]].
+[VAD] 1970-01-01 01:50:20.138 duration 0.079 get_speech_segments: 01:50:17.500 40640 samples, find segs:[[{'start': 0.0, 'end': 2.5}]].
+[VAD] 1970-01-01 01:50:20.253 duration 0.099 get_speech_segments: 01:50:17.500 42400 samples, find segs:[[{'start': 0.0, 'end': 2.6}]].
+[VAD] 1970-01-01 01:50:20.352 duration 0.075 get_speech_segments: 01:50:17.500 44320 samples, find segs:[[{'start': 0.0, 'end': 2.77}]].
+[VAD] 1970-01-01 01:50:20.511 duration 0.146 get_speech_segments: 01:50:17.500 45760 samples, find segs:[[{'start': 0.0, 'end': 2.86}]].
+[VAD] 1970-01-01 01:50:20.612 duration 0.085 get_speech_segments: 01:50:17.500 48320 samples, find segs:[[{'start': 0.0, 'end': 3.0}]].
+[VAD] 1970-01-01 01:50:20.683 duration 0.049 get_speech_segments: 01:50:17.500 49920 samples, find segs:[[{'start': 0.0, 'end': 3.1}]].
+[VAD] 1970-01-01 01:50:20.757 duration 0.054 get_speech_segments: 01:50:17.500 51040 samples, find segs:[[{'start': 0.0, 'end': 3.19}]].
+[VAD] 1970-01-01 01:50:20.864 duration 0.084 get_speech_segments: 01:50:17.500 52160 samples, find segs:[[{'start': 0.0, 'end': 3.26}]].
+[VAD] 1970-01-01 01:50:20.966 duration 0.081 get_speech_segments: 01:50:17.500 53920 samples, find segs:[[{'start': 0.0, 'end': 3.37}]].
+[VAD] 1970-01-01 01:50:21.058 duration 0.073 get_speech_segments: 01:50:17.500 55520 samples, find segs:[[{'start': 0.0, 'end': 3.47}]].
+[VAD] 1970-01-01 01:50:21.141 duration 0.061 get_speech_segments: 01:50:17.500 56960 samples, find segs:[[{'start': 0.0, 'end': 3.56}]].
+[VAD] 1970-01-01 01:50:21.212 duration 0.053 get_speech_segments: 01:50:17.500 58400 samples, find segs:[[{'start': 0.0, 'end': 3.1}]].
+[VAD] 1970-01-01 01:50:21.292 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:21.374 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:21.463 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:21.551 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:21.633 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:21.717 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:21.874 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:22.033 get_speech_segments: 01:50:17.500 same segment as previous detection.
+[VAD] 1970-01-01 01:50:22.188 duration 0.141 get_speech_segments: 01:50:17.500 72640 samples, find segs:[[{'start': 0.0, 'end': 3.1}, {'start': 4.2, 'end': 4.5}]].
+[VAD] 1970-01-01 01:50:22.227 duration 0.019 get_speech_segments: 01:50:21.700 8000 samples, find segs:[[{'start': 0.0, 'end': 0.5}]].
+[VAD] 1970-01-01 01:50:22.268 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:22.306 duration 0.017 get_speech_segments: 01:50:21.700 9280 samples, find segs:[[{'start': 0.0, 'end': 0.58}]].
+[VAD] 1970-01-01 01:50:22.347 duration 0.020 get_speech_segments: 01:50:21.700 9920 samples, find segs:[[{'start': 0.0, 'end': 0.6}]].
+[VAD] 1970-01-01 01:50:22.387 duration 0.018 get_speech_segments: 01:50:21.700 10400 samples, find segs:[[{'start': 0.0, 'end': 0.65}]].
+[VAD] 1970-01-01 01:50:22.420 duration 0.019 get_speech_segments: 01:50:21.700 11040 samples, find segs:[[{'start': 0.0, 'end': 0.69}]].
+[VAD] 1970-01-01 01:50:22.469 duration 0.030 get_speech_segments: 01:50:21.700 11520 samples, find segs:[[{'start': 0.0, 'end': 0.7}]].
+[VAD] 1970-01-01 01:50:22.515 duration 0.025 get_speech_segments: 01:50:21.700 12480 samples, find segs:[[{'start': 0.0, 'end': 0.78}]].
+[VAD] 1970-01-01 01:50:22.577 duration 0.035 get_speech_segments: 01:50:21.700 13280 samples, find segs:[[{'start': 0.0, 'end': 0.8}]].
+[VAD] 1970-01-01 01:50:22.643 duration 0.041 get_speech_segments: 01:50:21.700 14240 samples, find segs:[[{'start': 0.0, 'end': 0.89}]].
+[VAD] 1970-01-01 01:50:22.688 duration 0.027 get_speech_segments: 01:50:21.700 15200 samples, find segs:[[{'start': 0.0, 'end': 0.9}]].
+[VAD] 1970-01-01 01:50:22.767 duration 0.053 get_speech_segments: 01:50:21.700 16000 samples, find segs:[[{'start': 0.0, 'end': 1.0}]].
+[VAD] 1970-01-01 01:50:22.828 duration 0.042 get_speech_segments: 01:50:21.700 17280 samples, find segs:[[{'start': 0.0, 'end': 1.08}]].
+[VAD] 1970-01-01 01:50:22.881 duration 0.030 get_speech_segments: 01:50:21.700 18240 samples, find segs:[[{'start': 0.0, 'end': 1.1}]].
+[VAD] 1970-01-01 01:50:22.920 duration 0.024 get_speech_segments: 01:50:21.700 18880 samples, find segs:[[{'start': 0.0, 'end': 1.18}]].
+[VAD] 1970-01-01 01:50:22.968 duration 0.039 get_speech_segments: 01:50:21.700 19680 samples, find segs:[[{'start': 0.0, 'end': 1.2}]].
+[VAD] 1970-01-01 01:50:23.036 duration 0.041 get_speech_segments: 01:50:21.700 20480 samples, find segs:[[{'start': 0.0, 'end': 1.28}]].
+[VAD] 1970-01-01 01:50:23.103 duration 0.045 get_speech_segments: 01:50:21.700 21440 samples, find segs:[[{'start': 0.0, 'end': 1.3}]].
+[VAD] 1970-01-01 01:50:23.185 duration 0.063 get_speech_segments: 01:50:21.700 22560 samples, find segs:[[{'start': 0.0, 'end': 1.4}]].
+[VAD] 1970-01-01 01:50:23.284 duration 0.076 get_speech_segments: 01:50:21.700 24000 samples, find segs:[[{'start': 0.0, 'end': 1.5}]].
+[VAD] 1970-01-01 01:50:23.370 duration 0.061 get_speech_segments: 01:50:21.700 25600 samples, find segs:[[{'start': 0.0, 'end': 1.6}]].
+[VAD] 1970-01-01 01:50:23.473 duration 0.076 get_speech_segments: 01:50:21.700 26880 samples, find segs:[[{'start': 0.0, 'end': 1.68}]].
+[VAD] 1970-01-01 01:50:23.565 duration 0.067 get_speech_segments: 01:50:21.700 28640 samples, find segs:[[{'start': 0.0, 'end': 1.79}]].
+[VAD] 1970-01-01 01:50:23.640 duration 0.062 get_speech_segments: 01:50:21.700 29920 samples, find segs:[[{'start': 0.0, 'end': 1.3}]].
+[VAD] 1970-01-01 01:50:23.724 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:23.792 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:23.849 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:23.917 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:23.963 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.014 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.068 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.126 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.309 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.373 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.431 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.494 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.568 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.630 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.690 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.748 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.810 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.874 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:24.978 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:25.063 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:25.167 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:25.238 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:25.308 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:25.395 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:25.468 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:25.595 get_speech_segments: 01:50:21.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:25.683 duration 0.076 get_speech_segments: 01:50:21.700 62400 samples, find segs:[[{'start': 0.0, 'end': 1.3}, {'start': 3.6, 'end': 3.9}]].
+[VAD] 1970-01-01 01:50:25.716 duration 0.015 get_speech_segments: 01:50:25.300 6241 samples, find segs:[[{'start': 0.0, 'end': 0.3900625}]].
+[VAD] 1970-01-01 01:50:25.747 duration 0.013 get_speech_segments: 01:50:25.300 6721 samples, find segs:[[{'start': 0.0, 'end': 0.4}]].
+[VAD] 1970-01-01 01:50:25.780 duration 0.013 get_speech_segments: 01:50:25.300 7201 samples, find segs:[[{'start': 0.0, 'end': 0.4500625}]].
+[VAD] 1970-01-01 01:50:25.813 duration 0.013 get_speech_segments: 01:50:25.300 7841 samples, find segs:[[{'start': 0.0, 'end': 0.4900625}]].
+[VAD] 1970-01-01 01:50:25.840 duration 0.010 get_speech_segments: 01:50:25.300 8321 samples, find segs:[[{'start': 0.0, 'end': 0.5}]].
+[VAD] 1970-01-01 01:50:25.870 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:25.902 duration 0.013 get_speech_segments: 01:50:25.300 9281 samples, find segs:[[{'start': 0.0, 'end': 0.5800625}]].
+[VAD] 1970-01-01 01:50:25.946 duration 0.016 get_speech_segments: 01:50:25.300 9921 samples, find segs:[[{'start': 0.0, 'end': 0.6}]].
+[VAD] 1970-01-01 01:50:25.987 duration 0.020 get_speech_segments: 01:50:25.300 10401 samples, find segs:[[{'start': 0.0, 'end': 0.6500625}]].
+[VAD] 1970-01-01 01:50:26.023 duration 0.016 get_speech_segments: 01:50:25.300 11041 samples, find segs:[[{'start': 0.0, 'end': 0.6900625}]].
+[VAD] 1970-01-01 01:50:26.061 duration 0.020 get_speech_segments: 01:50:25.300 11681 samples, find segs:[[{'start': 0.0, 'end': 0.7}]].
+[VAD] 1970-01-01 01:50:26.103 duration 0.022 get_speech_segments: 01:50:25.300 12321 samples, find segs:[[{'start': 0.0, 'end': 0.7700625}]].
+[VAD] 1970-01-01 01:50:26.142 duration 0.021 get_speech_segments: 01:50:25.300 12961 samples, find segs:[[{'start': 0.0, 'end': 0.8}]].
+[VAD] 1970-01-01 01:50:26.170 duration 0.014 get_speech_segments: 01:50:25.300 13601 samples, find segs:[[{'start': 0.0, 'end': 0.8500625}]].
+[VAD] 1970-01-01 01:50:26.208 duration 0.021 get_speech_segments: 01:50:25.300 13921 samples, find segs:[[{'start': 0.0, 'end': 0.8700625}]].
+[VAD] 1970-01-01 01:50:26.243 duration 0.018 get_speech_segments: 01:50:25.300 14561 samples, find segs:[[{'start': 0.0, 'end': 0.9}]].
+[VAD] 1970-01-01 01:50:26.275 duration 0.016 get_speech_segments: 01:50:25.300 15201 samples, find segs:[[{'start': 0.0, 'end': 0.9500625}]].
+[VAD] 1970-01-01 01:50:26.306 duration 0.015 get_speech_segments: 01:50:25.300 15681 samples, find segs:[[{'start': 0.0, 'end': 0.9800625}]].
+[VAD] 1970-01-01 01:50:26.334 duration 0.014 get_speech_segments: 01:50:25.300 16161 samples, find segs:[[{'start': 0.0, 'end': 1.0}]].
+[VAD] 1970-01-01 01:50:26.367 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:26.405 duration 0.021 get_speech_segments: 01:50:25.300 17121 samples, find segs:[[{'start': 0.0, 'end': 1.0700625}]].
+[VAD] 1970-01-01 01:50:26.440 duration 0.019 get_speech_segments: 01:50:25.300 17761 samples, find segs:[[{'start': 0.0, 'end': 1.1}]].
+[VAD] 1970-01-01 01:50:26.480 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:26.511 duration 0.016 get_speech_segments: 01:50:25.300 19041 samples, find segs:[[{'start': 0.0, 'end': 1.1900625}]].
+[VAD] 1970-01-01 01:50:26.547 duration 0.019 get_speech_segments: 01:50:25.300 19521 samples, find segs:[[{'start': 0.0, 'end': 1.2}]].
+[VAD] 1970-01-01 01:50:26.582 duration 0.017 get_speech_segments: 01:50:25.300 20001 samples, find segs:[[{'start': 0.0, 'end': 1.2500625}]].
+[VAD] 1970-01-01 01:50:26.620 duration 0.022 get_speech_segments: 01:50:25.300 20641 samples, find segs:[[{'start': 0.0, 'end': 1.2900625}]].
+[VAD] 1970-01-01 01:50:26.694 duration 0.033 get_speech_segments: 01:50:25.300 21601 samples, find segs:[[{'start': 0.0, 'end': 1.3500625}]].
+[VAD] 1970-01-01 01:50:26.742 duration 0.032 get_speech_segments: 01:50:25.300 22401 samples, find segs:[[{'start': 0.0, 'end': 1.4}]].
+[VAD] 1970-01-01 01:50:26.813 duration 0.049 get_speech_segments: 01:50:25.300 23201 samples, find segs:[[{'start': 0.0, 'end': 1.4500625}]].
+[VAD] 1970-01-01 01:50:26.856 duration 0.026 get_speech_segments: 01:50:25.300 24321 samples, find segs:[[{'start': 0.0, 'end': 1.0}]].
+[VAD] 1970-01-01 01:50:26.896 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.030 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.080 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.142 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.203 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.277 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.421 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.501 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.590 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.685 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.802 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:27.905 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:28.009 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:28.114 get_speech_segments: 01:50:25.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:28.212 duration 0.067 get_speech_segments: 01:50:25.300 45281 samples, find segs:[[{'start': 0.0, 'end': 1.0}, {'start': 2.4, 'end': 2.8}]].
+[VAD] 1970-01-01 01:50:28.258 duration 0.026 get_speech_segments: 01:50:27.700 8320 samples, find segs:[[{'start': 0.0, 'end': 0.5}]].
+[VAD] 1970-01-01 01:50:28.295 duration 0.016 get_speech_segments: 01:50:27.700 9120 samples, find segs:[[{'start': 0.0, 'end': 0.57}]].
+[VAD] 1970-01-01 01:50:28.340 duration 0.023 get_speech_segments: 01:50:27.700 9760 samples, find segs:[[{'start': 0.0, 'end': 0.6}]].
+[VAD] 1970-01-01 01:50:28.384 duration 0.023 get_speech_segments: 01:50:27.700 10400 samples, find segs:[[{'start': 0.0, 'end': 0.65}]].
+[VAD] 1970-01-01 01:50:28.424 duration 0.027 get_speech_segments: 01:50:27.700 11040 samples, find segs:[[{'start': 0.0, 'end': 0.69}]].
+[VAD] 1970-01-01 01:50:28.497 duration 0.049 get_speech_segments: 01:50:27.700 11680 samples, find segs:[[{'start': 0.0, 'end': 0.7}]].
+[VAD] 1970-01-01 01:50:28.536 duration 0.025 get_speech_segments: 01:50:27.700 12800 samples, find segs:[[{'start': 0.0, 'end': 0.8}]].
+[VAD] 1970-01-01 01:50:28.580 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:28.631 duration 0.029 get_speech_segments: 01:50:27.700 14240 samples, find segs:[[{'start': 0.0, 'end': 0.89}]].
+[VAD] 1970-01-01 01:50:28.691 duration 0.041 get_speech_segments: 01:50:27.700 15040 samples, find segs:[[{'start': 0.0, 'end': 0.9}]].
+[VAD] 1970-01-01 01:50:28.726 duration 0.019 get_speech_segments: 01:50:27.700 15840 samples, find segs:[[{'start': 0.0, 'end': 0.99}]].
+[VAD] 1970-01-01 01:50:28.913 duration 0.021 get_speech_segments: 01:50:27.700 18880 samples, find segs:[[{'start': 0.0, 'end': 1.18}]].
+[VAD] 1970-01-01 01:50:28.966 duration 0.028 get_speech_segments: 01:50:27.700 19680 samples, find segs:[[{'start': 0.0, 'end': 1.2}]].
+[VAD] 1970-01-01 01:50:29.016 duration 0.028 get_speech_segments: 01:50:27.700 20320 samples, find segs:[[{'start': 0.0, 'end': 1.27}]].
+[VAD] 1970-01-01 01:50:29.070 duration 0.029 get_speech_segments: 01:50:27.700 21280 samples, find segs:[[{'start': 0.0, 'end': 1.3}]].
+[VAD] 1970-01-01 01:50:29.125 duration 0.033 get_speech_segments: 01:50:27.700 21920 samples, find segs:[[{'start': 0.0, 'end': 1.37}]].
+[VAD] 1970-01-01 01:50:29.164 duration 0.023 get_speech_segments: 01:50:27.700 22880 samples, find segs:[[{'start': 0.0, 'end': 1.4}]].
+[VAD] 1970-01-01 01:50:29.238 duration 0.022 get_speech_segments: 01:50:27.700 24160 samples, find segs:[[{'start': 0.0, 'end': 1.5}]].
+[VAD] 1970-01-01 01:50:29.304 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:29.362 duration 0.038 get_speech_segments: 01:50:27.700 25760 samples, find segs:[[{'start': 0.0, 'end': 1.6}]].
+[VAD] 1970-01-01 01:50:29.414 duration 0.036 get_speech_segments: 01:50:27.700 26720 samples, find segs:[[{'start': 0.0, 'end': 1.67}]].
+[VAD] 1970-01-01 01:50:29.487 duration 0.045 get_speech_segments: 01:50:27.700 27520 samples, find segs:[[{'start': 0.0, 'end': 1.7}]].
+[VAD] 1970-01-01 01:50:29.556 duration 0.028 get_speech_segments: 01:50:27.700 29120 samples, find segs:[[{'start': 0.0, 'end': 1.8}]].
+[VAD] 1970-01-01 01:50:30.271 duration 0.056 get_speech_segments: 01:50:27.700 40000 samples, find segs:[[{'start': 0.0, 'end': 2.5}]].
+[VAD] 1970-01-01 01:50:30.338 duration 0.046 get_speech_segments: 01:50:27.700 41280 samples, find segs:[[{'start': 0.0, 'end': 2.58}]].
+[VAD] 1970-01-01 01:50:30.402 duration 0.042 get_speech_segments: 01:50:27.700 42400 samples, find segs:[[{'start': 0.0, 'end': 2.6}]].
+[VAD] 1970-01-01 01:50:30.471 duration 0.050 get_speech_segments: 01:50:27.700 43360 samples, find segs:[[{'start': 0.0, 'end': 2.7}]].
+[VAD] 1970-01-01 01:50:30.577 duration 0.081 get_speech_segments: 01:50:27.700 44480 samples, find segs:[[{'start': 0.0, 'end': 2.78}]].
+[VAD] 1970-01-01 01:50:30.638 duration 0.042 get_speech_segments: 01:50:27.700 46080 samples, find segs:[[{'start': 0.0, 'end': 2.88}]].
+[VAD] 1970-01-01 01:50:30.698 duration 0.041 get_speech_segments: 01:50:27.700 47040 samples, find segs:[[{'start': 0.0, 'end': 2.9}]].
+[VAD] 1970-01-01 01:50:30.761 duration 0.040 get_speech_segments: 01:50:27.700 48000 samples, find segs:[[{'start': 0.0, 'end': 3.0}]].
+[VAD] 1970-01-01 01:50:30.823 duration 0.042 get_speech_segments: 01:50:27.700 49120 samples, find segs:[[{'start': 0.0, 'end': 3.07}]].
+[VAD] 1970-01-01 01:50:30.888 duration 0.046 get_speech_segments: 01:50:27.700 50080 samples, find segs:[[{'start': 0.0, 'end': 3.1}]].
+[VAD] 1970-01-01 01:50:30.983 duration 0.070 get_speech_segments: 01:50:27.700 51200 samples, find segs:[[{'start': 0.0, 'end': 3.2}]].
+[VAD] 1970-01-01 01:50:31.078 duration 0.071 get_speech_segments: 01:50:27.700 52640 samples, find segs:[[{'start': 0.0, 'end': 3.29}]].
+[VAD] 1970-01-01 01:50:31.177 duration 0.068 get_speech_segments: 01:50:27.700 54240 samples, find segs:[[{'start': 0.0, 'end': 3.39}]].
+[VAD] 1970-01-01 01:50:31.256 duration 0.055 get_speech_segments: 01:50:27.700 55680 samples, find segs:[[{'start': 0.0, 'end': 3.48}]].
+[VAD] 1970-01-01 01:50:31.336 duration 0.058 get_speech_segments: 01:50:27.700 56960 samples, find segs:[[{'start': 0.0, 'end': 3.56}]].
+[VAD] 1970-01-01 01:50:31.411 duration 0.053 get_speech_segments: 01:50:27.700 58240 samples, find segs:[[{'start': 0.0, 'end': 3.1}]].
+[VAD] 1970-01-01 01:50:31.495 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:31.581 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:31.660 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:31.765 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:31.876 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:31.988 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:32.078 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:32.172 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:32.343 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:32.450 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:32.551 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:32.646 get_speech_segments: 01:50:27.700 same segment as previous detection.
+[VAD] 1970-01-01 01:50:32.750 duration 0.083 get_speech_segments: 01:50:27.700 79200 samples, find segs:[[{'start': 0.0, 'end': 3.1}, {'start': 4.6, 'end': 4.95}]].
+[VAD] 1970-01-01 01:50:32.773 duration 0.007 get_speech_segments: 01:50:32.300 7361 samples, find segs:[[{'start': 0.0, 'end': 0.4600625}]].
+[VAD] 1970-01-01 01:50:32.798 duration 0.010 get_speech_segments: 01:50:32.300 7681 samples, find segs:[[{'start': 0.0, 'end': 0.4800625}]].
+[VAD] 1970-01-01 01:50:32.825 duration 0.008 get_speech_segments: 01:50:32.300 8001 samples, find segs:[[{'start': 0.0, 'end': 0.5}]].
+[VAD] 1970-01-01 01:50:32.862 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:32.911 duration 0.026 get_speech_segments: 01:50:32.300 9121 samples, find segs:[[{'start': 0.0, 'end': 0.5700625}]].
+[VAD] 1970-01-01 01:50:32.964 duration 0.029 get_speech_segments: 01:50:32.300 9921 samples, find segs:[[{'start': 0.0, 'end': 0.6}]].
+[VAD] 1970-01-01 01:50:33.005 duration 0.018 get_speech_segments: 01:50:32.300 10721 samples, find segs:[[{'start': 0.0, 'end': 0.6700625}]].
+[VAD] 1970-01-01 01:50:33.201 duration 0.020 get_speech_segments: 01:50:32.300 13921 samples, find segs:[[{'start': 0.0, 'end': 0.8700625}]].
+[VAD] 1970-01-01 01:50:33.238 duration 0.018 get_speech_segments: 01:50:32.300 14561 samples, find segs:[[{'start': 0.0, 'end': 0.9}]].
+[VAD] 1970-01-01 01:50:33.280 duration 0.019 get_speech_segments: 01:50:32.300 15201 samples, find segs:[[{'start': 0.0, 'end': 0.9500625}]].
+[VAD] 1970-01-01 01:50:33.314 duration 0.013 get_speech_segments: 01:50:32.300 15681 samples, find segs:[[{'start': 0.0, 'end': 0.9800625}]].
+[VAD] 1970-01-01 01:50:33.347 duration 0.017 get_speech_segments: 01:50:32.300 16321 samples, find segs:[[{'start': 0.0, 'end': 1.0}]].
+[VAD] 1970-01-01 01:50:33.388 duration 0.024 get_speech_segments: 01:50:32.300 16801 samples, find segs:[[{'start': 0.0, 'end': 1.0500625}]].
+[VAD] 1970-01-01 01:50:33.426 duration 0.020 get_speech_segments: 01:50:32.300 17601 samples, find segs:[[{'start': 0.0, 'end': 1.1}]].
+[VAD] 1970-01-01 01:50:33.468 duration 0.023 get_speech_segments: 01:50:32.300 18081 samples, find segs:[[{'start': 0.0, 'end': 0.6}]].
+[VAD] 1970-01-01 01:50:33.511 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:33.570 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:33.616 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:33.657 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:33.698 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:33.742 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:33.885 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:33.958 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.013 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.062 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.113 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.165 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.213 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.263 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.326 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.382 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.445 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.498 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.563 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.623 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.682 get_speech_segments: 01:50:32.300 same segment as previous detection.
+[VAD] 1970-01-01 01:50:34.757 duration 0.054 get_speech_segments: 01:50:32.300 38241 samples, find segs:[[{'start': 0.0, 'end': 0.6}, {'start': 2.0, 'end': 2.3900625}]].
+[VAD] 1970-01-01 01:50:34.790 duration 0.009 get_speech_segments: 01:50:34.300 7361 samples, find segs:[[{'start': 0.1, 'end': 0.4600625}]].
+[VAD] 1970-01-01 01:50:34.817 duration 0.010 get_speech_segments: 01:50:34.300 7841 samples, find segs:[[{'start': 0.1, 'end': 0.4900625}]].
+[VAD] 1970-01-01 01:50:34.845 duration 0.010 get_speech_segments: 01:50:34.300 8321 samples, find segs:[[{'start': 0.1, 'end': 0.5}]].
+[VAD] 1970-01-01 01:50:34.881 duration 0.014 get_speech_segments: 01:50:34.300 8801 samples, find segs:[[{'start': 0.1, 'end': 0.5500625}]].
+[VAD] 1970-01-01 01:50:34.920 duration 0.017 get_speech_segments: 01:50:34.300 9441 samples, find segs:[[{'start': 0.1, 'end': 0.5900625}]].
+[VAD] 1970-01-01 01:50:34.957 duration 0.016 get_speech_segments: 01:50:34.300 9921 samples, find segs:[[{'start': 0.1, 'end': 0.6}]].
+[VAD] 1970-01-01 01:50:34.985 duration 0.012 get_speech_segments: 01:50:34.300 10561 samples, find segs:[[{'start': 0.1, 'end': 0.6600625}]].
+[VAD] 1970-01-01 01:50:35.016 duration 0.016 get_speech_segments: 01:50:34.300 11041 samples, find segs:[[{'start': 0.1, 'end': 0.6900625}]].
+[VAD] 1970-01-01 01:50:35.103 duration 0.013 get_speech_segments: 01:50:34.300 12481 samples, find segs:[[{'start': 0.1, 'end': 0.7800625}]].
+[VAD] 1970-01-01 01:50:35.135 duration 0.015 get_speech_segments: 01:50:34.300 12961 samples, find segs:[[{'start': 0.1, 'end': 0.8}]].
+[VAD] 1970-01-01 01:50:35.175 duration 0.017 get_speech_segments: 01:50:34.300 13441 samples, find segs:[[{'start': 0.1, 'end': 0.8}]].
+[VAD] 1970-01-01 01:50:35.212 duration 0.021 get_speech_segments: 01:50:34.300 14081 samples, find segs:[[{'start': 0.1, 'end': 0.8800625}]].
+[VAD] 1970-01-01 01:50:35.248 duration 0.018 get_speech_segments: 01:50:34.300 14721 samples, find segs:[[{'start': 0.1, 'end': 0.9}]].
+[VAD] 1970-01-01 01:50:35.292 duration 0.021 get_speech_segments: 01:50:34.300 15361 samples, find segs:[[{'start': 0.1, 'end': 0.9600625}]].
+[VAD] 1970-01-01 01:50:35.324 duration 0.015 get_speech_segments: 01:50:34.300 16001 samples, find segs:[[{'start': 0.1, 'end': 1.0}]].
+[VAD] 1970-01-01 01:50:35.358 duration 0.018 get_speech_segments: 01:50:34.300 16481 samples, find segs:[[{'start': 0.1, 'end': 1.0}]].
+[VAD] 1970-01-01 01:50:35.394 duration 0.017 get_speech_segments: 01:50:34.300 17121 samples, find segs:[[{'start': 0.1, 'end': 1.0700625}]].
+[VAD] 1970-01-01 01:50:35.435 duration 0.024 get_speech_segments: 01:50:34.300 17601 samples, find segs:[[{'start': 0.1, 'end': 1.1}]].
+[VAD] 1970-01-01 01:50:35.478 duration 0.018 get_speech_segments: 01:50:34.300 18241 samples, find segs:[[{'start': 0.1, 'end': 1.1}]].
+[VAD] 1970-01-01 01:50:35.523 duration 0.022 get_speech_segments: 01:50:34.300 19041 samples, find segs:[[{'start': 0.1, 'end': 1.1900625}]].
+[VAD] 1970-01-01 01:50:35.565 duration 0.024 get_speech_segments: 01:50:34.300 19681 samples, find segs:[[{'start': 0.1, 'end': 1.2}]].
+[VAD] 1970-01-01 01:50:35.604 duration 0.020 get_speech_segments: 01:50:34.300 20321 samples, find segs:[[{'start': 0.1, 'end': 1.2700625}]].
+[VAD] 1970-01-01 01:50:35.642 duration 0.021 get_speech_segments: 01:50:34.300 20961 samples, find segs:[[{'start': 0.1, 'end': 1.3}]].
+[VAD] 1970-01-01 01:50:35.695 duration 0.033 get_speech_segments: 01:50:34.300 21601 samples, find segs:[[{'start': 0.1, 'end': 1.3500625}]].
+[VAD] 1970-01-01 01:50:35.744 duration 0.032 get_speech_segments: 01:50:34.300 22401 samples, find segs:[[{'start': 0.1, 'end': 1.4}]].
+[VAD] 1970-01-01 01:50:35.794 duration 0.030 get_speech_segments: 01:50:34.300 23201 samples, find segs:[[{'start': 0.1, 'end': 1.4500625}]].
+[VAD] 1970-01-01 01:50:35.850 duration 0.035 get_speech_segments: 01:50:34.300 24001 samples, find segs:[[{'start': 0.1, 'end': 1.5}]].
+[VAD] 1970-01-01 01:50:35.916 duration 0.044 get_speech_segments: 01:50:34.300 24961 samples, find segs:[[{'start': 0.1, 'end': 1.5600625}]].
+[VAD] 1970-01-01 01:50:35.990 duration 0.047 get_speech_segments: 01:50:34.300 26081 samples, find segs:[[{'start': 0.1, 'end': 1.6}]].
+[VAD] 1970-01-01 01:50:36.031 duration 0.026 get_speech_segments: 01:50:34.300 27201 samples, find segs:[[{'start': 0.1, 'end': 1.7}]].
+[VAD] 1970-01-01 01:50:36.091 duration 0.035 get_speech_segments: 01:50:34.300 27681 samples, find segs:[[{'start': 0.1, 'end': 1.7}]].
+[VAD] 1970-01-01 01:50:36.141 duration 0.030 get_speech_segments: 01:50:34.300 28801 samples, find segs:[[{'start': 0.1, 'end': 1.8}]].
+[VAD] 1970-01-01 01:50:36.192 duration 0.030 get_speech_segments: 01:50:34.300 29601 samples, find segs:[[{'start': 0.1, 'end': 1.8500625}]].
+[VAD] 1970-01-01 01:50:36.254 duration 0.040 get_speech_segments: 01:50:34.300 30401 samples, find segs:[[{'start': 0.1, 'end': 1.9}]].
+[VAD] 1970-01-01 01:50:36.324 duration 0.050 get_speech_segments: 01:50:34.300 31361 samples, find segs:[[{'start': 0.1, 'end': 1.9600625}]].
+[VAD] 1970-01-01 01:50:36.397 duration 0.052 get_speech_segments: 01:50:34.300 32481 samples, find segs:[[{'start': 0.1, 'end': 2.0}]].
+[VAD] 1970-01-01 01:50:36.496 duration 0.073 get_speech_segments: 01:50:34.300 33601 samples, find segs:[[{'start': 0.1, 'end': 2.1}]].
+[VAD] 1970-01-01 01:50:36.575 duration 0.051 get_speech_segments: 01:50:34.300 35361 samples, find segs:[[{'start': 0.1, 'end': 2.2}]].
+[VAD] 1970-01-01 01:50:36.736 duration 0.052 get_speech_segments: 01:50:34.300 37921 samples, find segs:[[{'start': 0.1, 'end': 2.3700625}]].
+[VAD] 1970-01-01 01:50:36.816 duration 0.058 get_speech_segments: 01:50:34.300 39041 samples, find segs:[[{'start': 0.1, 'end': 2.4}]].
+[VAD] 1970-01-01 01:50:36.894 duration 0.051 get_speech_segments: 01:50:34.300 40321 samples, find segs:[[{'start': 0.1, 'end': 2.5}]].
+[VAD] 1970-01-01 01:50:36.963 duration 0.049 get_speech_segments: 01:50:34.300 41601 samples, find segs:[[{'start': 0.1, 'end': 2.6}]].
+[VAD] 1970-01-01 01:50:37.047 duration 0.063 get_speech_segments: 01:50:34.300 42721 samples, find segs:[[{'start': 0.1, 'end': 2.6700625}]].
+[VAD] 1970-01-01 01:50:37.145 duration 0.070 get_speech_segments: 01:50:34.300 44161 samples, find segs:[[{'start': 0.1, 'end': 2.7600625}]].
+[VAD] 1970-01-01 01:50:37.254 duration 0.084 get_speech_segments: 01:50:34.300 45601 samples, find segs:[[{'start': 0.1, 'end': 2.8500625}]].
+[VAD] 1970-01-01 01:50:37.338 duration 0.062 get_speech_segments: 01:50:34.300 47361 samples, find segs:[[{'start': 0.1, 'end': 2.9600625}]].
+[VAD] 1970-01-01 01:50:37.412 duration 0.052 get_speech_segments: 01:50:34.300 48801 samples, find segs:[[{'start': 0.1, 'end': 3.0500625}]].
+[VAD] 1970-01-01 01:50:37.486 duration 0.053 get_speech_segments: 01:50:34.300 49921 samples, find segs:[[{'start': 0.1, 'end': 3.1}]].
+[VAD] 1970-01-01 01:50:37.562 duration 0.055 get_speech_segments: 01:50:34.300 51041 samples, find segs:[[{'start': 0.1, 'end': 3.1900625}]].
+[VAD] 1970-01-01 01:50:37.644 duration 0.061 get_speech_segments: 01:50:34.300 52321 samples, find segs:[[{'start': 0.1, 'end': 3.2700625}]].
+[VAD] 1970-01-01 01:50:37.735 duration 0.070 get_speech_segments: 01:50:34.300 53601 samples, find segs:[[{'start': 0.1, 'end': 3.3500625}]].
+[VAD] 1970-01-01 01:50:37.825 duration 0.072 get_speech_segments: 01:50:34.300 55041 samples, find segs:[[{'start': 0.1, 'end': 3.4}]].
+[VAD] 1970-01-01 01:50:37.936 duration 0.080 get_speech_segments: 01:50:34.300 56481 samples, find segs:[[{'start': 0.1, 'end': 3.5}]].
+[VAD] 1970-01-01 01:50:38.016 duration 0.059 get_speech_segments: 01:50:34.300 58241 samples, find segs:[[{'start': 0.1, 'end': 3.6}]].
+[VAD] 1970-01-01 01:50:38.102 duration 0.062 get_speech_segments: 01:50:34.300 59521 samples, find segs:[[{'start': 0.1, 'end': 3.7}]].
+[VAD] 1970-01-01 01:50:38.230 duration 0.075 get_speech_segments: 01:50:34.300 61441 samples, find segs:[[{'start': 0.1, 'end': 3.8}]].
+[VAD] 1970-01-01 01:50:38.363 duration 0.105 get_speech_segments: 01:50:34.300 63041 samples, find segs:[[{'start': 0.1, 'end': 3.9}]].
+[VAD] 1970-01-01 01:50:38.538 duration 0.159 get_speech_segments: 01:50:34.300 65121 samples, find segs:[[{'start': 0.1, 'end': 4.0700625}]].
+[VAD] 1970-01-01 01:50:38.712 duration 0.151 get_speech_segments: 01:50:34.300 67841 samples, find segs:[[{'start': 0.1, 'end': 4.2}]].
+[VAD] 1970-01-01 01:50:38.880 duration 0.138 get_speech_segments: 01:50:34.300 70721 samples, find segs:[[{'start': 0.1, 'end': 4.4}]].
+[VAD] 1970-01-01 01:50:39.034 duration 0.134 get_speech_segments: 01:50:34.300 73441 samples, find segs:[[{'start': 0.1, 'end': 4.5900625}]].
+[VAD] 1970-01-01 01:50:39.183 duration 0.131 get_speech_segments: 01:50:34.300 75841 samples, find segs:[[{'start': 0.1, 'end': 4.7}]].
+[VAD] 1970-01-01 01:50:39.367 duration 0.151 get_speech_segments: 01:50:34.300 78401 samples, find segs:[[{'start': 0.1, 'end': 4.9}]].
+[VAD] 1970-01-01 01:50:39.532 duration 0.137 get_speech_segments: 01:50:34.300 81121 samples, find segs:[[{'start': 0.1, 'end': 5.0700625}]].
+[VAD] 1970-01-01 01:50:39.721 duration 0.171 get_speech_segments: 01:50:34.300 83681 samples, find segs:[[{'start': 0.1, 'end': 5.2}]].
+[VAD] 1970-01-01 01:50:39.917 duration 0.171 get_speech_segments: 01:50:34.300 86881 samples, find segs:[[{'start': 0.1, 'end': 5.4}]].
+[VAD] 1970-01-01 01:50:40.137 duration 0.189 get_speech_segments: 01:50:34.300 89921 samples, find segs:[[{'start': 0.1, 'end': 5.6}]].
+[VAD] 1970-01-01 01:50:40.348 duration 0.180 get_speech_segments: 01:50:34.300 93441 samples, find segs:[[{'start': 0.1, 'end': 5.8}]].
+[VAD] 1970-01-01 01:50:40.544 duration 0.158 get_speech_segments: 01:50:34.300 96961 samples, find segs:[[{'start': 0.1, 'end': 6.0600625}]].
+[VAD] 1970-01-01 01:50:40.834 duration 0.205 get_speech_segments: 01:50:34.300 100801 samples, find segs:[[{'start': 0.1, 'end': 6.3}]].
+[VAD] 1970-01-01 01:50:41.022 duration 0.158 get_speech_segments: 01:50:34.300 104641 samples, find segs:[[{'start': 0.1, 'end': 6.5}]].
+[VAD] 1970-01-01 01:50:41.267 duration 0.211 get_speech_segments: 01:50:34.300 107681 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:41.571 duration 0.272 get_speech_segments: 01:50:34.300 111521 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:41.857 duration 0.247 get_speech_segments: 01:50:34.300 116481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:42.162 duration 0.277 get_speech_segments: 01:50:34.300 120961 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:42.444 duration 0.253 get_speech_segments: 01:50:34.300 125921 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:42.652 duration 0.186 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:42.855 duration 0.184 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:43.162 duration 0.283 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:43.406 duration 0.199 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:43.768 duration 0.272 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:44.019 duration 0.223 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:44.251 duration 0.208 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:44.465 duration 0.188 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:44.740 duration 0.255 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:45.020 duration 0.226 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:45.269 duration 0.226 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:45.576 duration 0.280 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:45.899 duration 0.301 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:46.146 duration 0.228 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:46.367 duration 0.195 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:46.624 duration 0.236 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:46.851 duration 0.193 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:47.099 duration 0.231 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:47.340 duration 0.218 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:47.652 duration 0.286 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:47.837 duration 0.169 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:48.135 duration 0.268 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:48.374 duration 0.202 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:48.614 duration 0.219 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:48.825 duration 0.184 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:49.027 duration 0.182 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:49.247 duration 0.194 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:49.491 duration 0.224 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:49.780 duration 0.250 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:50.016 duration 0.210 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:50.236 duration 0.199 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:50.458 duration 0.202 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:50.728 duration 0.241 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:50.979 duration 0.217 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:51.325 duration 0.225 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:51.606 duration 0.259 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:51.825 duration 0.196 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:52.117 duration 0.266 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:52.366 duration 0.230 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:52.688 duration 0.212 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:52.970 duration 0.264 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:53.256 duration 0.265 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:53.482 duration 0.208 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:53.752 duration 0.245 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:53.995 duration 0.218 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:54.213 duration 0.196 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:54.447 duration 0.206 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:54.724 duration 0.255 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:54.916 duration 0.168 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:55.144 duration 0.209 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:55.390 duration 0.229 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:55.636 duration 0.226 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:55.941 duration 0.283 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:56.133 duration 0.168 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:56.371 duration 0.215 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:56.725 duration 0.225 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:56.945 duration 0.198 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:57.151 duration 0.182 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:57.475 duration 0.209 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:57.708 duration 0.200 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:57.945 duration 0.213 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:58.276 duration 0.306 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:58.504 duration 0.204 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:58.735 duration 0.213 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:58.956 duration 0.202 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:59.200 duration 0.219 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:59.462 duration 0.240 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:59.716 duration 0.230 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:50:59.954 duration 0.219 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:51:00.187 duration 0.207 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:51:00.457 duration 0.246 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:51:00.831 duration 0.246 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:51:01.071 duration 0.216 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:51:01.321 duration 0.216 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:51:01.583 duration 0.241 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:51:01.815 duration 0.209 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:51:02.068 duration 0.227 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] 1970-01-01 01:51:02.327 duration 0.238 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] SileroVAD result: total 8 speech segments. [index,start,end,vad_time,elapsed] [0,0.600,8.500,9.192,0.1357][1,10.400,15.500,16.123,0.0778][2,17.500,20.600,21.213,0.0530][3,21.700,23.000,23.641,0.0617][4,25.300,26.300,26.857,0.0262][5,27.700,30.800,31.412,0.0527][6,32.300,32.900,33.469,0.0231][7,34.300,40.400,41.267,0.2108]
+[VAD] 1970-01-01 01:51:02.626 duration 0.276 get_speech_segments: 01:50:34.300 128481 samples, find segs:[[{'start': 0.1, 'end': 6.1}]].
+[VAD] VADThread.run() end.
+
+[ASR1] There is no speech segment stored. 1970-01-01 01:50:00.000000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:06.972338, 01:50:00.600000-01:50:06.800000.
+[ASR1] Do quick ASR from 01:50:06.800000 to 01:50:06.800000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:00.550000.
+[ASR1] after query_sentence_by_time01:50:00.550000, return idx:0.
+[ASR1] before query_word_by_time01:50:00.550000.
+[ASR1] after query_word_by_time01:50:00.550000, return widx:0.
+[ASR1] 1970-01-01 01:50:07.778895 transcribe duration 0.074s: len(segments)=1,text= The difference in the rainbow depends considerably upon the size of the drops and the width of the colored band increases as...,audio([01:50:00.550000,01:50:06.850000]).
+[ASR1] transcribe result:[ as...] seems not complete, end=3007.0499999999997, audio end=3006.8500000000004.
+[ASR1] run(): check_time_start forward to 1970-01-01 01:50:00.600000 from 01:50:00.000000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:07.115466, 01:50:00.600000-01:50:06.980000.
+[ASR1] Do quick ASR from 01:50:07.600000 to 01:50:07.600000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:00.550000.
+[ASR1] after query_sentence_by_time01:50:00.550000, return idx:0.
+[ASR1] before query_word_by_time01:50:00.550000.
+[ASR1] after query_word_by_time01:50:00.550000, return widx:0.
+[ASR1] 1970-01-01 01:50:08.641492 transcribe duration 0.035s: len(segments)=1,text= The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drop.,audio([01:50:00.550000,01:50:07.650000]).
+[ASR1] transcribe result:[ drop.] seems not stable, end=3007.7299999999996, audio end=3007.65.
+[ASR1] request from asr_queue. 1970-01-01 01:50:07.238723, 01:50:00.600000-01:50:07.100000.
+[ASR1] Do quick ASR from 01:50:08.400000 to 01:50:08.400000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:00.550000.
+[ASR1] after query_sentence_by_time01:50:00.550000, return idx:0.
+[ASR1] before query_word_by_time01:50:00.550000.
+[ASR1] after query_word_by_time01:50:00.550000, return widx:0.
+[ASR1] 1970-01-01 01:50:09.548555 transcribe duration 0.055s: len(segments)=1,text= The difference in the rainbow depends considerably upon the size of the drops and the width of the colored band increases as the size of the drops increases.,audio([01:50:00.550000,01:50:08.450000]).
+[ASR1] transcribe result:[ increases.] seems not stable, end=3008.1699999999996, audio end=3008.4500000000003.
+[ASR1] request from asr_queue. 1970-01-01 01:50:07.363587, 01:50:00.600000-01:50:07.200000.
+[ASR1] Do quick ASR from 01:50:08.500000 to 01:50:08.500000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:00.550000.
+[ASR1] after query_sentence_by_time01:50:00.550000, return idx:0.
+[ASR1] before query_word_by_time01:50:00.550000.
+[ASR1] after query_word_by_time01:50:00.550000, return widx:0.
+[ASR1] 1970-01-01 01:50:10.417301 transcribe duration 0.051s: len(segments)=1,text= The difference in the rainbow depends considerably upon the size of the drops and the width of the colored band increases as the size of the drops increases.,audio([01:50:00.550000,01:50:08.550000]).
+[ASR1] transcribe result:[ increases.] seems not stable, end=3008.2699999999995, audio end=3008.55.
+[ASR1] request from asr_queue. 1970-01-01 01:50:07.481872, 01:50:00.600000-01:50:07.370000.
+[ASR1] Do quick ASR from 01:50:08.500000 to 01:50:08.500000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:00.550000.
+[ASR1] after query_sentence_by_time01:50:00.550000, return idx:0.
+[ASR1] before query_word_by_time01:50:00.550000.
+[ASR1] after query_word_by_time01:50:00.550000, return widx:0.
+[ASR1] 1970-01-01 01:50:11.327804 transcribe duration 0.055s: len(segments)=1,text= The difference in the rainbow depends considerably upon the size of the drops and the width of the colored band increases as the size of the drops increases.,audio([01:50:00.550000,01:50:08.550000]).
+[ASR1] transcribe result:[ increases.] seems not stable, end=3008.2699999999995, audio end=3008.55.
+[ASR1] request from asr_queue. 1970-01-01 01:50:07.613223, 01:50:00.600000-01:50:07.490000.
+[ASR1] Do quick ASR from 01:50:11.300000 to 01:50:11.300000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:10.350000.
+[ASR1] after query_sentence_by_time01:50:10.350000, return idx:1.
+[ASR1] before query_word_by_time01:50:10.350000.
+[ASR1] after query_word_by_time01:50:10.350000, return widx:28.
+[ASR1] 1970-01-01 01:50:11.906346 transcribe duration 0.007s: len(segments)=1,text= Please take the shape of a...,audio([01:50:10.350000,01:50:11.330000]).
+[ASR1] transcribe result:[ a...] seems not complete, end=3011.33, audio end=3011.33.
+[ASR1] run(): check_time_start forward to 1970-01-01 01:50:10.400000 from 01:50:00.600000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:07.745088, 01:50:00.600000-01:50:07.600000.
+[ASR1] Do quick ASR from 01:50:11.800000 to 01:50:11.800000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:10.350000.
+[ASR1] after query_sentence_by_time01:50:10.350000, return idx:1.
+[ASR1] before query_word_by_time01:50:10.350000.
+[ASR1] after query_word_by_time01:50:10.350000, return widx:28.
+[ASR1] 1970-01-01 01:50:12.489150 transcribe duration 0.009s: len(segments)=1,text= These take the shape of a long round.,audio([01:50:10.350000,01:50:11.850000]).
+[ASR1] transcribe result:[ round.] seems not stable, end=3011.83, audio end=3011.8500000000004.
+[ASR1] request from asr_queue. 1970-01-01 01:50:07.887698, 01:50:00.600000-01:50:07.750000.
+[ASR1] Do quick ASR from 01:50:12.400000 to 01:50:12.400000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:10.350000.
+[ASR1] after query_sentence_by_time01:50:10.350000, return idx:1.
+[ASR1] before query_word_by_time01:50:10.350000.
+[ASR1] after query_word_by_time01:50:10.350000, return widx:28.
+[ASR1] 1970-01-01 01:50:13.169563 transcribe duration 0.020s: len(segments)=1,text= Please take the shape of a long round arch with it.,audio([01:50:10.350000,01:50:12.450000]).
+[ASR1] transcribe result:[ it.] seems not stable, end=3012.75, audio end=3012.4500000000003.
+[ASR1] request from asr_queue. 1970-01-01 01:50:08.017565, 01:50:00.600000-01:50:07.900000.
+[ASR1] Do quick ASR from 01:50:13.080000 to 01:50:13.080000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:10.350000.
+[ASR1] after query_sentence_by_time01:50:10.350000, return idx:1.
+[ASR1] before query_word_by_time01:50:10.350000.
+[ASR1] after query_word_by_time01:50:10.350000, return widx:28.
+[ASR1] 1970-01-01 01:50:13.883321 transcribe duration 0.018s: len(segments)=1,text= These take the shape of a long round arch with its papaya bun.,audio([01:50:10.350000,01:50:13.130000]).
+[ASR1] transcribe result:[ bun.] seems not stable, end=3013.33, audio end=3013.13.
+[ASR1] request from asr_queue. 1970-01-01 01:50:08.150085, 01:50:00.600000-01:50:08.000000.
+[ASR1] Do quick ASR from 01:50:13.770000 to 01:50:13.770000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:10.350000.
+[ASR1] after query_sentence_by_time01:50:10.350000, return idx:1.
+[ASR1] before query_word_by_time01:50:10.350000.
+[ASR1] after query_word_by_time01:50:10.350000, return widx:28.
+[ASR1] 1970-01-01 01:50:14.645714 transcribe duration 0.025s: len(segments)=1,text= These take the shape of a long round arch with its papaya buff and it's too...,audio([01:50:10.350000,01:50:13.820000]).
+[ASR1] transcribe result:[ too...] seems not complete, end=3014.25, audio end=3013.82.
+[ASR1] request from asr_queue. 1970-01-01 01:50:08.295085, 01:50:00.600000-01:50:08.100000.
+[ASR1] Do quick ASR from 01:50:14.500000 to 01:50:14.500000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:10.350000.
+[ASR1] after query_sentence_by_time01:50:10.350000, return idx:1.
+[ASR1] before query_word_by_time01:50:10.350000.
+[ASR1] after query_word_by_time01:50:10.350000, return widx:28.
+[ASR1] 1970-01-01 01:50:15.400471 transcribe duration 0.031s: len(segments)=1,text= These take the shape of a long round arch with its path higher above and it's two ends apparently,audio([01:50:10.350000,01:50:14.550000]).
+[ASR1] request from asr_queue. 1970-01-01 01:50:08.438367, 01:50:00.600000-01:50:08.300000.
+[ASR1] Do quick ASR from 01:50:15.160000 to 01:50:15.160000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:10.350000.
+[ASR1] after query_sentence_by_time01:50:10.350000, return idx:1.
+[ASR1] before query_word_by_time01:50:10.350000.
+[ASR1] after query_word_by_time01:50:10.350000, return widx:28.
+[ASR1] 1970-01-01 01:50:16.223220 transcribe duration 0.037s: len(segments)=1,text= These take the shape of a long round arch with its path higher above and it's two ends apparently beyond their rise.,audio([01:50:10.350000,01:50:15.210000]).
+[ASR1] transcribe result:[ rise.] seems not stable, end=3015.11, audio end=3015.2100000000005.
+[ASR1] request from asr_queue. 1970-01-01 01:50:08.576654, 01:50:00.600000-01:50:08.400000.
+[ASR1] Do quick ASR from 01:50:15.500000 to 01:50:15.500000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:10.350000.
+[ASR1] after query_sentence_by_time01:50:10.350000, return idx:1.
+[ASR1] before query_word_by_time01:50:10.350000.
+[ASR1] after query_word_by_time01:50:10.350000, return widx:28.
+[ASR1] 1970-01-01 01:50:17.027172 transcribe duration 0.048s: len(segments)=1,text= These take the shape of a long round arch with its path higher above and it's two ends apparently beyond their horizon.,audio([01:50:10.350000,01:50:15.550000]).
+[ASR1] transcribe result:[ horizon.] seems not stable, end=3015.25, audio end=3015.55.
+[ASR1] request from asr_queue. 1970-01-01 01:50:08.726364, 01:50:00.600000-01:50:08.580000.
+[ASR1] Do quick ASR from 01:50:15.500000 to 01:50:15.500000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:10.350000.
+[ASR1] after query_sentence_by_time01:50:10.350000, return idx:1.
+[ASR1] before query_word_by_time01:50:10.350000.
+[ASR1] after query_word_by_time01:50:10.350000, return widx:28.
+[ASR1] 1970-01-01 01:50:17.700403 transcribe duration 0.035s: len(segments)=1,text= These take the shape of a long round arch with its path higher above and it's two ends apparently beyond their horizon.,audio([01:50:10.350000,01:50:15.550000]).
+[ASR1] transcribe result:[ horizon.] seems not stable, end=3015.25, audio end=3015.55.
+[ASR1] request from asr_queue. 1970-01-01 01:50:08.890404, 01:50:00.600000-01:50:08.700000.
+[ASR1] Do quick ASR from 01:50:15.500000 to 01:50:15.500000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:10.350000.
+[ASR1] after query_sentence_by_time01:50:10.350000, return idx:1.
+[ASR1] before query_word_by_time01:50:10.350000.
+[ASR1] after query_word_by_time01:50:10.350000, return widx:28.
+[ASR1] 1970-01-01 01:50:18.506443 transcribe duration 0.035s: len(segments)=1,text= These take the shape of a long round arch with its path higher above and it's two ends apparently beyond their horizon.,audio([01:50:10.350000,01:50:15.550000]).
+[ASR1] transcribe result:[ horizon.] seems not stable, end=3015.25, audio end=3015.55.
+[ASR1] request from asr_queue. 1970-01-01 01:50:09.030566, 01:50:00.600000-01:50:08.900000.
+[ASR1] Do quick ASR from 01:50:18.490000 to 01:50:18.490000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:17.450000.
+[ASR1] after query_sentence_by_time01:50:17.450000, return idx:2.
+[ASR1] before query_word_by_time01:50:17.450000.
+[ASR1] after query_word_by_time01:50:17.450000, return widx:50.
+[ASR1] 1970-01-01 01:50:19.081835 transcribe duration 0.007s: len(segments)=1,text= to the Hebrews.,audio([01:50:17.450000,01:50:18.510000]).
+[ASR1] transcribe result:[ Hebrews.] is sentence end and it is stable, end=3018.0699999999997, audio end=3018.51.
+[ASR1] stable sentence: audio:1970-01-01 01:50:17.450000, asr:01:50:19.081931. Text: to the Hebrews., duration:0.620. New check_time_start:01:50:18.070000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:18.070000 while audio_time_start is 01:50:17.500000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:09.191768, 01:50:00.600000-01:50:08.500000.
+[ASR1] Do quick ASR from 01:50:19.000000 to 01:50:19.000000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:17.450000.
+[ASR1] after query_sentence_by_time01:50:17.450000, return idx:2.
+[ASR1] before query_word_by_time01:50:17.450000.
+[ASR1] after query_word_by_time01:50:17.450000, return widx:50.
+[ASR1] 1970-01-01 01:50:20.144352 transcribe duration 0.018s: len(segments)=1,text= to the Hebrews it was a token that there'll be.,audio([01:50:17.450000,01:50:19.050000]).
+[ASR1] transcribe result:[ be.] seems not stable, end=3019.1099999999997, audio end=3019.05.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:18.070000 while audio_time_start is 01:50:17.500000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.015265, 01:50:00.600000-01:50:10.800000.
+[ASR1] Do quick ASR from 01:50:20.000000 to 01:50:20.000000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:20.632539 transcribe duration 0.003s: len(segments)=1,text= To the Hebrews.,audio([01:50:17.400000,01:50:18.120000]).
+[ASR1] before query_sentence_by_time01:50:17.450000.
+[ASR1] after query_sentence_by_time01:50:17.450000, return idx:2.
+[ASR1] before query_word_by_time01:50:17.450000.
+[ASR1] after query_word_by_time01:50:17.450000, return widx:50.
+[ASR1] 1970-01-01 01:50:20.987077 transcribe duration 0.046s: len(segments)=1,text= To the Hebrews it was a token that there'll be no more universal.,audio([01:50:17.450000,01:50:20.050000]).
+[ASR1] transcribe result:[ universal.] seems not stable, end=3019.89, audio end=3020.05.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:18.070000 while audio_time_start is 01:50:17.500000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.043960, 01:50:10.400000-01:50:11.000000.
+[ASR1] Do quick ASR from 01:50:20.870000 to 01:50:20.870000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:17.450000.
+[ASR1] after query_sentence_by_time01:50:17.450000, return idx:2.
+[ASR1] before query_word_by_time01:50:17.450000.
+[ASR1] after query_word_by_time01:50:17.450000, return widx:50.
+[ASR1] 1970-01-01 01:50:21.735419 transcribe duration 0.019s: len(segments)=1,text= To the Hebrews it was a token that there'll be no more universal floods.,audio([01:50:17.450000,01:50:20.920000]).
+[ASR1] transcribe result:[ floods.] is sentence end and it is stable, end=3020.39, audio end=3020.92.
+[ASR1] stable sentence: audio:1970-01-01 01:50:17.450000, asr:01:50:21.735551. Text: To the Hebrews it was a token that there'll be no more universal floods., duration:2.940. New check_time_start:01:50:20.390000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:20.390000 while audio_time_start is 01:50:17.500000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.073523, 01:50:10.400000-01:50:11.050000.
+[ASR1] Do quick ASR from 01:50:20.600000 to 01:50:20.600000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:17.450000.
+[ASR1] after query_sentence_by_time01:50:17.450000, return idx:2.
+[ASR1] before query_word_by_time01:50:17.450000.
+[ASR1] after query_word_by_time01:50:17.450000, return widx:50.
+[ASR1] 1970-01-01 01:50:22.913905 transcribe duration 0.048s: len(segments)=1,text= To the Hebrews, it was a token that there'll be no more universal floods.,audio([01:50:17.450000,01:50:20.650000]).
+[ASR1] transcribe result:[ floods.] seems not stable, end=3020.39, audio end=3020.65.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:20.390000 while audio_time_start is 01:50:17.500000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.102959, 01:50:10.400000-01:50:11.080000.
+[ASR1] Do quick ASR from 01:50:22.880000 to 01:50:22.880000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:23.825188 transcribe duration 0.014s: len(segments)=1,text= To the Hebrews, it was a token that there would be no more universal floods.,audio([01:50:17.400000,01:50:20.440000]).
+[ASR1] before query_sentence_by_time01:50:21.650000.
+[ASR1] after query_sentence_by_time01:50:21.650000, return idx:3.
+[ASR1] before query_word_by_time01:50:21.650000.
+[ASR1] after query_word_by_time01:50:21.650000, return widx:64.
+[ASR1] 1970-01-01 01:50:23.825596 transcribe duration 0.016s: len(segments)=1,text= how to find the checking number.,audio([01:50:21.650000,01:50:22.920000]).
+[ASR1] transcribe result:[ number.] seems not stable, end=3022.93, audio end=3022.92.
+[ASR1] run(): check_time_start forward to 1970-01-01 01:50:21.700000 from 01:50:20.390000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.141211, 01:50:10.400000-01:50:11.100000.
+[ASR1] Do quick ASR from 01:50:23.000000 to 01:50:23.000000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:21.650000.
+[ASR1] after query_sentence_by_time01:50:21.650000, return idx:3.
+[ASR1] before query_word_by_time01:50:21.650000.
+[ASR1] after query_word_by_time01:50:21.650000, return widx:64.
+[ASR1] 1970-01-01 01:50:24.424469 transcribe duration 0.014s: len(segments)=1,text= how to find the checking number.,audio([01:50:21.650000,01:50:23.050000]).
+[ASR1] transcribe result:[ number.] seems not stable, end=3022.97, audio end=3023.05.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.176397, 01:50:10.400000-01:50:11.150000.
+[ASR1] Do quick ASR from 01:50:23.000000 to 01:50:23.000000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:21.650000.
+[ASR1] after query_sentence_by_time01:50:21.650000, return idx:3.
+[ASR1] before query_word_by_time01:50:21.650000.
+[ASR1] after query_word_by_time01:50:21.650000, return widx:64.
+[ASR1] 1970-01-01 01:50:25.028467 transcribe duration 0.021s: len(segments)=1,text= how to find the checking number.,audio([01:50:21.650000,01:50:23.050000]).
+[ASR1] transcribe result:[ number.] seems not stable, end=3022.97, audio end=3023.05.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.213393, 01:50:10.400000-01:50:11.180000.
+[ASR1] Do quick ASR from 01:50:23.000000 to 01:50:23.000000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:21.650000.
+[ASR1] after query_sentence_by_time01:50:21.650000, return idx:3.
+[ASR1] before query_word_by_time01:50:21.650000.
+[ASR1] after query_word_by_time01:50:21.650000, return widx:64.
+[ASR1] 1970-01-01 01:50:25.612140 transcribe duration 0.024s: len(segments)=1,text= how to find the checking number.,audio([01:50:21.650000,01:50:23.050000]).
+[ASR1] transcribe result:[ number.] seems not stable, end=3022.97, audio end=3023.05.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.251413, 01:50:10.400000-01:50:11.200000.
+[ASR1] Do quick ASR from 01:50:23.000000 to 01:50:23.000000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:21.650000.
+[ASR1] after query_sentence_by_time01:50:21.650000, return idx:3.
+[ASR1] before query_word_by_time01:50:21.650000.
+[ASR1] after query_word_by_time01:50:21.650000, return widx:64.
+[ASR1] 1970-01-01 01:50:26.147549 transcribe duration 0.018s: len(segments)=1,text= how to find the checking number.,audio([01:50:21.650000,01:50:23.050000]).
+[ASR1] transcribe result:[ number.] seems not stable, end=3022.97, audio end=3023.05.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.287752, 01:50:10.400000-01:50:11.260000.
+[ASR1] Do quick ASR from 01:50:26.100000 to 01:50:26.100000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:25.250000.
+[ASR1] after query_sentence_by_time01:50:25.250000, return idx:4.
+[ASR1] before query_word_by_time01:50:25.250000.
+[ASR1] after query_word_by_time01:50:25.250000, return widx:70.
+[ASR1] 1970-01-01 01:50:26.696961 transcribe duration 0.007s: len(segments)=1,text= New question.,audio([01:50:25.250000,01:50:26.150000]).
+[ASR1] transcribe result:[ question.] seems not stable, end=3026.0499999999997, audio end=3026.15.
+[ASR1] run(): check_time_start forward to 1970-01-01 01:50:25.300000 from 01:50:21.700000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.323012, 01:50:10.400000-01:50:11.300000.
+[ASR1] Do quick ASR from 01:50:26.650062 to 01:50:26.650062, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:25.250000.
+[ASR1] after query_sentence_by_time01:50:25.250000, return idx:4.
+[ASR1] before query_word_by_time01:50:25.250000.
+[ASR1] after query_word_by_time01:50:25.250000, return widx:70.
+[ASR1] 1970-01-01 01:50:27.214410 transcribe duration 0.013s: len(segments)=1,text= New question.,audio([01:50:25.250000,01:50:26.700000]).
+[ASR1] transcribe result:[ question.] is sentence end and it is stable, end=3026.0899999999997, audio end=3026.7.
+[ASR1] stable sentence: audio:1970-01-01 01:50:25.250000, asr:01:50:27.214517. Text: New question., duration:0.840. New check_time_start:01:50:26.090000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:26.090000 while audio_time_start is 01:50:25.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.388872, 01:50:10.400000-01:50:11.360000.
+[ASR1] Do quick ASR from 01:50:26.300000 to 01:50:26.300000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:25.250000.
+[ASR1] after query_sentence_by_time01:50:25.250000, return idx:4.
+[ASR1] before query_word_by_time01:50:25.250000.
+[ASR1] after query_word_by_time01:50:25.250000, return widx:70.
+[ASR1] 1970-01-01 01:50:28.076993 transcribe duration 0.017s: len(segments)=1,text= New question.,audio([01:50:25.250000,01:50:26.350000]).
+[ASR1] transcribe result:[ question.] seems not stable, end=3026.0899999999997, audio end=3026.35.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:26.090000 while audio_time_start is 01:50:25.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.428476, 01:50:10.400000-01:50:11.400000.
+[ASR1] Do quick ASR from 01:50:26.300000 to 01:50:26.300000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:28.690375 transcribe duration 0.002s: len(segments)=1,text= New question.,audio([01:50:25.200000,01:50:26.140000]).
+[ASR1] before query_sentence_by_time01:50:25.250000.
+[ASR1] after query_sentence_by_time01:50:25.250000, return idx:4.
+[ASR1] before query_word_by_time01:50:25.250000.
+[ASR1] after query_word_by_time01:50:25.250000, return widx:70.
+[ASR1] 1970-01-01 01:50:28.822815 transcribe duration 0.026s: len(segments)=1,text= New question.,audio([01:50:25.250000,01:50:26.350000]).
+[ASR1] transcribe result:[ question.] seems not stable, end=3026.0899999999997, audio end=3026.35.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:26.090000 while audio_time_start is 01:50:25.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.504617, 01:50:10.400000-01:50:11.480000.
+[ASR1] Do quick ASR from 01:50:28.690000 to 01:50:28.690000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:27.650000.
+[ASR1] after query_sentence_by_time01:50:27.650000, return idx:5.
+[ASR1] before query_word_by_time01:50:27.650000.
+[ASR1] after query_word_by_time01:50:27.650000, return widx:72.
+[ASR1] 1970-01-01 01:50:29.367004 transcribe duration 0.007s: len(segments)=1,text= I did not listen.,audio([01:50:27.650000,01:50:28.740000]).
+[ASR1] transcribe result:[ listen.] seems not stable, end=3028.6699999999996, audio end=3028.74.
+[ASR1] run(): check_time_start forward to 1970-01-01 01:50:27.700000 from 01:50:26.090000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.541789, 01:50:10.400000-01:50:11.500000.
+[ASR1] Do quick ASR from 01:50:29.300000 to 01:50:29.300000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:27.650000.
+[ASR1] after query_sentence_by_time01:50:27.650000, return idx:5.
+[ASR1] before query_word_by_time01:50:27.650000.
+[ASR1] after query_word_by_time01:50:27.650000, return widx:72.
+[ASR1] 1970-01-01 01:50:29.906134 transcribe duration 0.017s: len(segments)=1,text= I did not receive the package.,audio([01:50:27.650000,01:50:29.350000]).
+[ASR1] transcribe result:[ package.] seems not stable, end=3029.2899999999995, audio end=3029.35.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.613510, 01:50:10.400000-01:50:11.580000.
+[ASR1] Do quick ASR from 01:50:29.500000 to 01:50:29.500000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:27.650000.
+[ASR1] after query_sentence_by_time01:50:27.650000, return idx:5.
+[ASR1] before query_word_by_time01:50:27.650000.
+[ASR1] after query_word_by_time01:50:27.650000, return widx:72.
+[ASR1] 1970-01-01 01:50:30.454498 transcribe duration 0.011s: len(segments)=1,text= I did not receive the package.,audio([01:50:27.650000,01:50:29.550000]).
+[ASR1] transcribe result:[ package.] seems not stable, end=3029.3099999999995, audio end=3029.55.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.646107, 01:50:10.400000-01:50:11.600000.
+[ASR1] Do quick ASR from 01:50:30.300000 to 01:50:30.300000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:27.650000.
+[ASR1] after query_sentence_by_time01:50:27.650000, return idx:5.
+[ASR1] before query_word_by_time01:50:27.650000.
+[ASR1] after query_word_by_time01:50:27.650000, return widx:72.
+[ASR1] 1970-01-01 01:50:31.077071 transcribe duration 0.014s: len(segments)=1,text= I did not receive a packet, how can I...,audio([01:50:27.650000,01:50:30.350000]).
+[ASR1] transcribe result:[ I...] seems not complete, end=3030.6299999999997, audio end=3030.35.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.713327, 01:50:10.400000-01:50:11.680000.
+[ASR1] Do quick ASR from 01:50:30.990000 to 01:50:30.990000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:27.650000.
+[ASR1] after query_sentence_by_time01:50:27.650000, return idx:5.
+[ASR1] before query_word_by_time01:50:27.650000.
+[ASR1] after query_word_by_time01:50:27.650000, return widx:72.
+[ASR1] 1970-01-01 01:50:31.741505 transcribe duration 0.030s: len(segments)=1,text= I did not receive a packet, how can I do it?,audio([01:50:27.650000,01:50:31.040000]).
+[ASR1] transcribe result:[ it?] seems not stable, end=3030.8899999999994, audio end=3031.04.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.756578, 01:50:10.400000-01:50:11.700000.
+[ASR1] Do quick ASR from 01:50:30.800000 to 01:50:30.800000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:27.650000.
+[ASR1] after query_sentence_by_time01:50:27.650000, return idx:5.
+[ASR1] before query_word_by_time01:50:27.650000.
+[ASR1] after query_word_by_time01:50:27.650000, return widx:72.
+[ASR1] 1970-01-01 01:50:32.374826 transcribe duration 0.018s: len(segments)=1,text= I did not receive a packet, how can I do it?,audio([01:50:27.650000,01:50:30.850000]).
+[ASR1] transcribe result:[ it?] seems not stable, end=3030.8899999999994, audio end=3030.85.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.798660, 01:50:10.400000-01:50:11.760000.
+[ASR1] Do quick ASR from 01:50:30.800000 to 01:50:30.800000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:27.650000.
+[ASR1] after query_sentence_by_time01:50:27.650000, return idx:5.
+[ASR1] before query_word_by_time01:50:27.650000.
+[ASR1] after query_word_by_time01:50:27.650000, return widx:72.
+[ASR1] 1970-01-01 01:50:33.023186 transcribe duration 0.027s: len(segments)=1,text= I did not receive a packet, how can I do it?,audio([01:50:27.650000,01:50:30.850000]).
+[ASR1] transcribe result:[ it?] seems not stable, end=3030.8899999999994, audio end=3030.85.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.840604, 01:50:10.400000-01:50:11.800000.
+[ASR1] Do quick ASR from 01:50:32.970062 to 01:50:32.970062, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:32.250000.
+[ASR1] after query_sentence_by_time01:50:32.250000, return idx:6.
+[ASR1] before query_word_by_time01:50:32.250000.
+[ASR1] after query_word_by_time01:50:32.250000, return widx:83.
+[ASR1] 1970-01-01 01:50:33.508985 transcribe duration 0.005s: len(segments)=1,text= Thank you.,audio([01:50:32.250000,01:50:33.020062]).
+[ASR1] transcribe result:[ you.] seems not stable, end=3032.8499999999995, audio end=3033.0200624999998.
+[ASR1] run(): check_time_start forward to 1970-01-01 01:50:32.300000 from 01:50:27.700000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.922214, 01:50:10.400000-01:50:11.880000.
+[ASR1] Do quick ASR from 01:50:32.900000 to 01:50:32.900000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:32.250000.
+[ASR1] after query_sentence_by_time01:50:32.250000, return idx:6.
+[ASR1] before query_word_by_time01:50:32.250000.
+[ASR1] after query_word_by_time01:50:32.250000, return widx:83.
+[ASR1] 1970-01-01 01:50:33.997397 transcribe duration 0.005s: len(segments)=1,text= Thank you.,audio([01:50:32.250000,01:50:32.950000]).
+[ASR1] transcribe result:[ you.] seems not stable, end=3032.8699999999994, audio end=3032.95.
+[ASR1] request from asr_queue. 1970-01-01 01:50:11.994483, 01:50:10.400000-01:50:11.900000.
+[ASR1] Do quick ASR from 01:50:32.900000 to 01:50:32.900000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:32.250000.
+[ASR1] after query_sentence_by_time01:50:32.250000, return idx:6.
+[ASR1] before query_word_by_time01:50:32.250000.
+[ASR1] after query_word_by_time01:50:32.250000, return widx:83.
+[ASR1] 1970-01-01 01:50:34.494416 transcribe duration 0.006s: len(segments)=1,text= Thank you.,audio([01:50:32.250000,01:50:32.950000]).
+[ASR1] transcribe result:[ you.] seems not stable, end=3032.8699999999994, audio end=3032.95.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.041247, 01:50:10.400000-01:50:12.000000.
+[ASR1] Do quick ASR from 01:50:32.900000 to 01:50:32.900000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:32.250000.
+[ASR1] after query_sentence_by_time01:50:32.250000, return idx:6.
+[ASR1] before query_word_by_time01:50:32.250000.
+[ASR1] after query_word_by_time01:50:32.250000, return widx:83.
+[ASR1] 1970-01-01 01:50:34.965640 transcribe duration 0.009s: len(segments)=1,text= Thank you.,audio([01:50:32.250000,01:50:32.950000]).
+[ASR1] transcribe result:[ you.] seems not stable, end=3032.8699999999994, audio end=3032.95.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.131715, 01:50:10.400000-01:50:12.090000.
+[ASR1] Do quick ASR from 01:50:34.900000 to 01:50:34.900000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:35.462451 transcribe duration 0.006s: len(segments)=1,text= or to find.,audio([01:50:34.250000,01:50:34.950000]).
+[ASR1] transcribe result:[ find.] seems not stable, end=3034.9099999999994, audio end=3034.95.
+[ASR1] run(): check_time_start forward to 1970-01-01 01:50:34.300000 from 01:50:32.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.176818, 01:50:10.400000-01:50:12.100000.
+[ASR1] Do quick ASR from 01:50:35.400000 to 01:50:35.400000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:36.006717 transcribe duration 0.008s: len(segments)=1,text= how to find this up,audio([01:50:34.250000,01:50:35.450000]).
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.226988, 01:50:10.400000-01:50:12.180000.
+[ASR1] Do quick ASR from 01:50:35.900000 to 01:50:35.900000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:36.558710 transcribe duration 0.015s: len(segments)=1,text= how to find the best.,audio([01:50:34.250000,01:50:35.950000]).
+[ASR1] transcribe result:[ best.] seems not stable, end=3035.7299999999996, audio end=3035.95.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.275390, 01:50:10.400000-01:50:12.200000.
+[ASR1] Do quick ASR from 01:50:36.400000 to 01:50:36.400000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:37.130186 transcribe duration 0.012s: len(segments)=1,text= how to find the best package.,audio([01:50:34.250000,01:50:36.450000]).
+[ASR1] transcribe result:[ package.] seems not stable, end=3036.4299999999994, audio end=3036.45.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.323339, 01:50:10.400000-01:50:12.280000.
+[ASR1] Do quick ASR from 01:50:36.970062 to 01:50:36.970062, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:37.753116 transcribe duration 0.014s: len(segments)=1,text= how to find the best package stitch.,audio([01:50:34.250000,01:50:37.020062]).
+[ASR1] transcribe result:[ stitch.] seems not stable, end=3036.9899999999993, audio end=3037.0200624999998.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.421342, 01:50:10.400000-01:50:12.300000.
+[ASR1] Do quick ASR from 01:50:37.650062 to 01:50:37.650062, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:38.380161 transcribe duration 0.017s: len(segments)=1,text= how to find the best package station.,audio([01:50:34.250000,01:50:37.700063]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3037.7000625.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:38.380447. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.495819, 01:50:10.400000-01:50:12.400000.
+[ASR1] Do quick ASR from 01:50:38.200000 to 01:50:38.200000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:39.482395 transcribe duration 0.069s: len(segments)=1,text= how to find the best package station to the Hebrews.,audio([01:50:34.250000,01:50:38.250000]).
+[ASR1] transcribe result:[ Hebrews.] seems not stable, end=3038.0899999999997, audio end=3038.25.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.574375, 01:50:10.400000-01:50:12.500000.
+[ASR1] Do quick ASR from 01:50:39.200000 to 01:50:39.200000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:40.232546 transcribe duration 0.009s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:40.519283 transcribe duration 0.045s: len(segments)=1,text= how to find the nearest package station. To the Hebrews it was a token that there will be no.,audio([01:50:34.250000,01:50:39.250000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3039.25.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:40.519386. Text: how to find the nearest package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.625548, 01:50:10.400000-01:50:12.580000.
+[ASR1] Do quick ASR from 01:50:40.100000 to 01:50:40.100000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:41.762922 transcribe duration 0.057s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.150000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.15.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:41.763262. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.675616, 01:50:10.400000-01:50:12.600000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:42.338705 transcribe duration 0.017s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:43.222167 transcribe duration 0.062s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:43.222547. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.725308, 01:50:10.400000-01:50:12.680000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:44.201887 transcribe duration 0.009s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:44.455839 transcribe duration 0.052s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:44.456149. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.777056, 01:50:10.400000-01:50:12.700000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:45.608050 transcribe duration 0.063s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:45.608268. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.833527, 01:50:10.400000-01:50:12.780000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:46.014119 transcribe duration 0.013s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:46.966631 transcribe duration 0.050s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:46.966888. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.887126, 01:50:10.400000-01:50:12.800000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:47.668737 transcribe duration 0.019s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:48.292893 transcribe duration 0.059s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:48.293050. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:12.942666, 01:50:10.400000-01:50:12.890000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:49.500071 transcribe duration 0.050s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:49.500250. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:13.001397, 01:50:10.400000-01:50:12.900000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:49.654695 transcribe duration 0.018s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:50.861488 transcribe duration 0.058s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:50.861591. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:13.075596, 01:50:10.400000-01:50:13.000000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:51.366749 transcribe duration 0.020s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:52.184165 transcribe duration 0.061s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:52.184267. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:13.134504, 01:50:10.400000-01:50:13.080000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:53.070117 transcribe duration 0.015s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:53.538877 transcribe duration 0.065s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:53.539156. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:13.189023, 01:50:10.400000-01:50:13.100000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:54.806343 transcribe duration 0.054s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:54.806567. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:13.260059, 01:50:10.400000-01:50:13.190000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:55.007267 transcribe duration 0.010s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:56.013257 transcribe duration 0.053s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:56.013635. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:13.330535, 01:50:10.400000-01:50:13.270000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:56.687387 transcribe duration 0.015s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:57.407649 transcribe duration 0.068s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:57.407943. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:13.394365, 01:50:10.400000-01:50:13.300000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:50:58.498412 transcribe duration 0.009s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:50:58.790002 transcribe duration 0.061s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:50:58.790202. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:13.459049, 01:50:10.400000-01:50:13.400000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:51:00.098553 transcribe duration 0.056s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:51:00.099411. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:13.535813, 01:50:10.400000-01:50:13.470000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:51:00.346315 transcribe duration 0.018s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:51:01.349999 transcribe duration 0.065s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:51:01.350274. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] request from asr_queue. 1970-01-01 01:50:13.609021, 01:50:10.400000-01:50:13.500000.
+[ASR1] Do quick ASR from 01:50:40.400000 to 01:50:40.400000, merged 2 speech segments.
+[ASR1] 1970-01-01 01:51:02.114094 transcribe duration 0.021s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+[ASR1] before query_sentence_by_time01:50:34.250000.
+[ASR1] after query_sentence_by_time01:50:34.250000, return idx:7.
+[ASR1] before query_word_by_time01:50:34.250000.
+[ASR1] after query_word_by_time01:50:34.250000, return widx:85.
+[ASR1] 1970-01-01 01:51:02.659504 transcribe duration 0.050s: len(segments)=1,text= how to find the best package station. To the Hebrews it was a token that there will be no more universal flood.,audio([01:50:34.250000,01:50:40.450000]).
+[ASR1] transcribe result:[ station.] is sentence end and it is stable, end=3037.1699999999996, audio end=3040.45.
+[ASR1] stable sentence: audio:1970-01-01 01:50:34.250000, asr:01:51:02.659643. Text: how to find the best package station., duration:2.920. New check_time_start:01:50:37.170000.
+[ASR1] run(): check_time_start is 1970-01-01 01:50:37.170000 while audio_time_start is 01:50:34.300000.
+[ASR1] 1970-01-01 01:51:03.225830 transcribe duration 0.009s: len(segments)=1,text= How to find the nearest packet station?,audio([01:50:34.200000,01:50:37.220000]).
+
+[ASR2] request from asr_queue. 1970-01-01 01:50:19.081931, 01:50:17.450000-01:50:18.070000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:21.735551, 01:50:17.450000-01:50:20.390000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:27.214517, 01:50:25.250000-01:50:26.090000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:38.380447, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:40.519386, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:41.763262, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:43.222547, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:44.456149, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:45.608268, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:46.966888, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:48.293050, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:49.500250, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:50.861591, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:52.184267, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:53.539156, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:54.806567, 01:50:34.250000-01:50:37.170000.
+[ASR2] request from asr_queue. 1970-01-01 01:50:56.013635, 01:50:34.250000-01:50:37.170000.
