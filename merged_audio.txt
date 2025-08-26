@@ -1,0 +1,41 @@
+file_list = [
+    "test-en01-3.wav", "silent-1s.wav",  
+    "question-1.wav", "silent-1s.wav", "silent-1s.wav", "new-question-2.wav", "silent-1s.wav",  
+    "question-2.wav", "silent-1s.wav", "thankyou-1.wav", "silent-1s.wav",  
+    "question-3.wav", "s04-fullvoice.wav", "silent-1s.wav", "silent-1s.wav",  
+]
+test-en01-3.wav含3句话 20.57s长:
+1.The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+2.These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+3.To the Hebrews it was a token that there would be no more universal floods.
+question-1.wav 1.47s: How to find the tracking number?
+new-question-2.wav 1.32s: new question
+question-2.wav 3.63s: I did not receive a packet, how can I do it?
+thank-you-1.wav 0.81s: Thank you.
+question-3.wav 3.45s: How to find the nearest packet station?
+s04-fullvoice.wav 2.79s: To the Hebrews it was a token that there would be no more universal floods. 
+总长度 20.57+1+1.47 + 1.47+1+1+1.32+1 + 3.63+1+0.81+1 + 3.45+2.79+1+1 = 43.51s, 最后提交时间是42.42
+
+合并后的 merged_audio.wav 1354374 42.323s
+SileroVAD result: total 8 speech segments. 
+[index,start,end,vad_time,elapsed] 
+[0,0.600,8.500,9.192,0.1357]
+[1,10.400,15.500,16.123,0.0778]
+[2,17.500,20.600,21.213,0.0530]
+[3,21.700,23.000,23.641,0.0617]
+[4,25.300,26.300,26.857,0.0262]
+[5,27.700,30.800,31.412,0.0527]
+[6,32.300,32.900,33.469,0.0231]
+[7,34.300,40.400,41.267,0.2108]
+
+test-en01-3.wav 20.57s:
+0.550 - 8.550 1.The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+10.350 - 15.550 2.These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+17.450 - 20.920 3.To the Hebrews it was a token that there would be no more universal floods.
+21.650 - 23.050 question-1.wav 1.47s: How to find the tracking number?
+25.250 - 26.150 new-question-2.wav 1.32s: new question
+27.650 - 30.850 question-2.wav 3.63s: I did not receive a packet, how can I do it?
+32.250 - 32.950 thank-you-1.wav 0.81s: Thank you.
+34.250 - 37.170 question-3.wav 3.45s: How to find the nearest packet station?
+ - 40.450 s04-fullvoice.wav 2.79s: To the Hebrews it was a token that there would be no more universal floods. 
+
